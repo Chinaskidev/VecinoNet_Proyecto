@@ -1,5 +1,5 @@
 <center><h1>VecinoNet (Redes para Todos)</h1></center>
-<center><h3>Este repositorio alberga el Proyecto Individual 2 de Data Analyst realizado durante el bootcamp de Henry.</h3></center>
+<center><h4>Este repositorio alberga el Proyecto Individual 2 de Data Analyst realizado durante el bootcamp de Henry.</h4></center>
 
 <center>
 
