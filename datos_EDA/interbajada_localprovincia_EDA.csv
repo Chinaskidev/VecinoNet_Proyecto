@@ -1,0 +1,3096 @@
+Año,Trimestre,Provincia,Mbps (Media de bajada),Localidad
+2022.0,4.0,Buenos Aires,111.0,25 de Mayo
+2022.0,4.0,Capital Federal,18.286,Agustín Mosconi
+2022.0,4.0,Catamarca,8.333,Del Valle
+2022.0,4.0,Chaco,10.402,Ernestina
+2022.0,4.0,Chubut,1.592,Gobernador Ugarte
+2022.0,4.0,Córdoba,10.877,Lucas Monteverde
+2022.0,4.0,Corrientes,9.472,Norberto de la Riestra
+2022.0,4.0,Entre Ríos,8.747,Pedernales
+2022.0,4.0,Formosa,7.203,San Enrique
+2022.0,4.0,Jujuy,3.932,Valdés
+2022.0,4.0,La Pampa,191.0,12 de Octubre
+2022.0,4.0,La Rioja,61.0,9 de Julio
+2022.0,4.0,Mendoza,3.876,Alfredo Demarchi  (Est. Facundo Quiroga)
+2022.0,4.0,Misiones,9.124,Dudignac
+2022.0,4.0,Neuquén,9.537,Manuel B. Gonnet  (Est. French)
+2022.0,4.0,Río Negro,7.531,Patricios
+2022.0,4.0,Salta,7.593,Villa General Fournier  (Est. 9 de Julio Sud)
+2022.0,4.0,San Juan,1.639,Carhué
+2022.0,4.0,San Luis,3.067,Colonia San Miguel Arcángel
+2022.0,4.0,Santa Cruz,1.433,Esteban Agustín Gascón
+2022.0,4.0,Santa Fe,903.0,Maza
+2022.0,4.0,Santiago Del Estero,344.0,Rivera
+2022.0,4.0,Tierra Del Fuego,1.348,Adolfo Gonzales Chaves  (Est. Chaves)
+2022.0,4.0,Tucumán,8.833,De la Garma
+2022.0,3.0,Buenos Aires,7.019,Juan E. Barra
+2022.0,3.0,Capital Federal,10.105,Vásquez
+2022.0,3.0,Catamarca,6.099,Alberti   (Est. Andrés Vaccarezza)
+2022.0,3.0,Chaco,5.321,Mechita
+2022.0,3.0,Chubut,1.557,Adrogué
+2022.0,3.0,Córdoba,5.632,Burzaco
+2022.0,3.0,Corrientes,4.507,Claypole
+2022.0,3.0,Entre Ríos,4.249,Don Orione
+2022.0,3.0,Formosa,3.035,Glew
+2022.0,3.0,Jujuy,3.243,Jose Mármol
+2022.0,3.0,La Pampa,1.81,Longchamps
+2022.0,3.0,La Rioja,4.43,Malvinas Argentinas
+2022.0,3.0,Mendoza,3.416,Ministro Rivadavia
+2022.0,3.0,Misiones,4.93,Rafael Calzada
+2022.0,3.0,Neuquén,4.781,San Francisco Solano
+2022.0,3.0,Río Negro,3.413,San Jose
+2022.0,3.0,Salta,4.133,OTROS
+2022.0,3.0,San Juan,1.584,Arrecifes
+2022.0,3.0,San Luis,1.933,Todd
+2022.0,3.0,Santa Cruz,1.26,Viña
+2022.0,3.0,Santa Fe,4.515,Avellaneda
+2022.0,3.0,Santiago Del Estero,1.769,Crucesita
+2022.0,3.0,Tierra Del Fuego,1.101,Dock Sud
+2022.0,3.0,Tucumán,5.336,Gerli
+2022.0,2.0,Buenos Aires,655.0,Pineyro
+2022.0,2.0,Capital Federal,9.397,Sarandí
+2022.0,2.0,Catamarca,5.656,Villa Domínico
+2022.0,2.0,Chaco,5.061,Wilde
+2022.0,2.0,Chubut,1.491,Ayacucho
+2022.0,2.0,Córdoba,5.351,La Constancia
+2022.0,2.0,Corrientes,4.331,Solanet
+2022.0,2.0,Entre Ríos,4.003,Udaquiola
+2022.0,2.0,Formosa,2.847,Azul
+2022.0,2.0,Jujuy,2.939,Cacharí
+2022.0,2.0,La Pampa,1.607,Chillar
+2022.0,2.0,La Rioja,4.328,Bahía Blanca
+2022.0,2.0,Mendoza,2.972,Cabildo
+2022.0,2.0,Misiones,4.623,General Daniel Cerri  (Est. General Cerri)
+2022.0,2.0,Neuquén,4.653,Ingeniero White
+2022.0,2.0,Río Negro,3.326,Balcarce
+2022.0,2.0,Salta,3.877,Los Pinos
+2022.0,2.0,San Juan,1.444,Napaleofú
+2022.0,2.0,San Luis,1.932,Ramos Otero
+2022.0,2.0,Santa Cruz,1.181,San Agustín
+2022.0,2.0,Santa Fe,4.201,Villa Laguna La Brava
+2022.0,2.0,Santiago Del Estero,1.634,Baradero
+2022.0,2.0,Tierra Del Fuego,1.097,Irineo Portela
+2022.0,2.0,Tucumán,5.009,Santa Coloma
+2022.0,1.0,Buenos Aires,6.251,Villa Alsina  (Est. Alsina)
+2022.0,1.0,Capital Federal,8.822,Barker
+2022.0,1.0,Catamarca,5.122,Benito Juárez  (Est. Juárez)
+2022.0,1.0,Chaco,4.584,López
+2022.0,1.0,Chubut,1.34,Villa Cacique  (Est. Alfredo Fortabat)
+2022.0,1.0,Córdoba,4.989,Berazategui
+2022.0,1.0,Corrientes,3.811,Berazategui Oeste
+2022.0,1.0,Entre Ríos,3.559,Carlos Tomás Sourigues
+2022.0,1.0,Formosa,3.028,Centro Agrícola El Pato
+2022.0,1.0,Jujuy,2.769,Guillermo E. Hudson
+2022.0,1.0,La Pampa,1.484,Juan María Gutierrez
+2022.0,1.0,La Rioja,4.137,Pereyra
+2022.0,1.0,Mendoza,2.62,Plátanos
+2022.0,1.0,Misiones,4.187,Ranelagh
+2022.0,1.0,Neuquén,4.305,Villa España
+2022.0,1.0,Río Negro,3.109,Barrio El Carmen (Este)
+2022.0,1.0,Salta,3.671,Berisso
+2022.0,1.0,San Juan,1.199,Villa Arguello
+2022.0,1.0,San Luis,2.095,Villa Nueva
+2022.0,1.0,Santa Cruz,1.089,Villa Progreso
+2022.0,1.0,Santa Fe,3.889,Hale
+2022.0,1.0,Santiago Del Estero,1.45,OTROS
+2022.0,1.0,Tierra Del Fuego,1.073,Pirovano
+2022.0,1.0,Tucumán,4.724,San Carlos de Bolívar  (Est. Bolívar)
+2021.0,4.0,Buenos Aires,6.021,Urdampilleta
+2021.0,4.0,Capital Federal,8.295,Bragado
+2021.0,4.0,Catamarca,4.638,Comodoro Py
+2021.0,4.0,Chaco,4.234,General O'Brien
+2021.0,4.0,Chubut,908.0,Irala
+2021.0,4.0,Córdoba,4.636,Mechita (Est. Mecha)
+2021.0,4.0,Corrientes,3.577,Olascoaga
+2021.0,4.0,Entre Ríos,3.332,Warnes
+2021.0,4.0,Formosa,2.876,Coronel Brandsen
+2021.0,4.0,Jujuy,2.714,Jeppener
+2021.0,4.0,La Pampa,1.385,Alto Los Cardales
+2021.0,4.0,La Rioja,3.97,Barrio Los Pioneros
+2021.0,4.0,Mendoza,2.223,Campana
+2021.0,4.0,Misiones,3.89,Chacras Del Río Luján
+2021.0,4.0,Neuquén,4.009,Lomas del Río Luján (Est. Río Luján)
+2021.0,4.0,Río Negro,2.72,Alejandro Petión
+2021.0,4.0,Salta,3.394,Barrio Belgrano-Máximo Paz
+2021.0,4.0,San Juan,1.105,Barrio El Taladro
+2021.0,4.0,San Luis,2.091,Cañuelas
+2021.0,4.0,Santa Cruz,899.0,Gobernador Udaondo
+2021.0,4.0,Santa Fe,3.602,Máximo Paz
+2021.0,4.0,Santiago Del Estero,1.384,Santa Rosa
+2021.0,4.0,Tierra Del Fuego,1.07,Uribelarrea
+2021.0,4.0,Tucumán,4.515,Vicente Casares
+2021.0,3.0,Buenos Aires,5.626,Capitán Sarmiento
+2021.0,3.0,Capital Federal,7.771,La Luisa
+2021.0,3.0,Catamarca,4.343,Cadret
+2021.0,3.0,Chaco,3.911,Carlos Casares
+2021.0,3.0,Chubut,818.0,La Sofía
+2021.0,3.0,Córdoba,4.193,Mauricio Hirsch
+2021.0,3.0,Corrientes,3.217,Moctezuma
+2021.0,3.0,Entre Ríos,2.96,Santo Tomás
+2021.0,3.0,Formosa,2.669,Smith
+2021.0,3.0,Jujuy,2.598,Carlos Tejedor
+2021.0,3.0,La Pampa,1.299,Colonia Seré
+2021.0,3.0,La Rioja,3.887,Curarú
+2021.0,3.0,Mendoza,1.337,Timote
+2021.0,3.0,Misiones,3.088,Tres Algarrobos  (Est. Cuenca)
+2021.0,3.0,Neuquén,3.834,Carmen de Areco
+2021.0,3.0,Río Negro,2.54,Pueblo Gouin
+2021.0,3.0,Salta,3.121,Tres Sargentos
+2021.0,3.0,San Juan,704.0,Castelli
+2021.0,3.0,San Luis,2.17,Centro Guerrero
+2021.0,3.0,Santa Cruz,769.0,Cerro De La Gloria
+2021.0,3.0,Santa Fe,3.313,Castilla
+2021.0,3.0,Santiago Del Estero,1.335,Chacabuco
+2021.0,3.0,Tierra Del Fuego,952.0,O'Higgins
+2021.0,3.0,Tucumán,4.21,Rawson
+2021.0,2.0,Buenos Aires,5.276,Barrio San Cayetano
+2021.0,2.0,Capital Federal,7.275,Chascomús
+2021.0,2.0,Catamarca,4.219,Manuel J. Cobo  (Est. Lezama)
+2021.0,2.0,Chaco,3.74,Chivilcoy
+2021.0,2.0,Chubut,768.0,Gorostiaga
+2021.0,2.0,Córdoba,3.959,La Rica
+2021.0,2.0,Corrientes,3.037,Moquehuá
+2021.0,2.0,Entre Ríos,2.762,Ramón Biaus
+2021.0,2.0,Formosa,2.397,San Sebastián
+2021.0,2.0,Jujuy,2.581,Colón
+2021.0,2.0,La Pampa,1.228,Pearson
+2021.0,2.0,La Rioja,3.853,Sarasa
+2021.0,2.0,Mendoza,1.347,Bajo Hondo
+2021.0,2.0,Misiones,2.868,Balneario Pehuen Co
+2021.0,2.0,Neuquén,3.611,Pago Chico
+2021.0,2.0,Río Negro,2.375,Punta Alta  (Est Almirante Solier)
+2021.0,2.0,Salta,2.924,Villa General Arias  (Est. Kilómetro 638)
+2021.0,2.0,San Juan,699.0,Balneario Marisol
+2021.0,2.0,San Luis,2.166,Coronel Dorrego
+2021.0,2.0,Santa Cruz,763.0,El Perdido  (Est. José A. Guisasola)
+2021.0,2.0,Santa Fe,3.07,Oriente
+2021.0,2.0,Santiago Del Estero,1.272,Coronel Pringles  (Est. Pringles)
+2021.0,2.0,Tierra Del Fuego,859.0,Indio Rico
+2021.0,2.0,Tucumán,4.031,Coronel Suárez
+2021.0,1.0,Buenos Aires,5.079,Huanguelén
+2021.0,1.0,Capital Federal,6.829,Pasman
+2021.0,1.0,Catamarca,3.997,San José
+2021.0,1.0,Chaco,3.363,Santa María
+2021.0,1.0,Chubut,753.0,Santa Trinidad
+2021.0,1.0,Córdoba,3.617,Villa La Arcadia
+2021.0,1.0,Corrientes,2.599,Daireaux
+2021.0,1.0,Entre Ríos,2.387,Salazar
+2021.0,1.0,Formosa,2.098,Dolores
+2021.0,1.0,Jujuy,2.678,Sevigne
+2021.0,1.0,La Pampa,1.073,Ensenada
+2021.0,1.0,La Rioja,1.27,Villa Catela
+2021.0,1.0,Mendoza,1.26,Belen de Escobar
+2021.0,1.0,Misiones,2.508,El cazador
+2021.0,1.0,Neuquén,3.424,Garín
+2021.0,1.0,Río Negro,2.192,Ingeniero Maschwitz
+2021.0,1.0,Salta,2.732,Loma Verde
+2021.0,1.0,San Juan,691.0,Maquinista F. Savio (este)
+2021.0,1.0,San Luis,2.159,Matheu
+2021.0,1.0,Santa Cruz,750.0,9 De Abril
+2021.0,1.0,Santa Fe,2.813,Canning
+2021.0,1.0,Santiago Del Estero,1.158,El Jagüel
+2021.0,1.0,Tierra Del Fuego,873.0,Luis Guillón
+2021.0,1.0,Tucumán,3.798,Monte Grande
+2020.0,4.0,Buenos Aires,5.001,Zona Aeropuerto Internacional Ezeiza
+2020.0,4.0,Capital Federal,6.733,Arroyo de la Cruz
+2020.0,4.0,Catamarca,3.765,Capilla del Señor  (Est. Capilla)
+2020.0,4.0,Chaco,3.245,El Remanso
+2020.0,4.0,Chubut,738.0,Los Cardales
+2020.0,4.0,Córdoba,3.512,Parada Orlando
+2020.0,4.0,Corrientes,2.545,Parada Robles - Pavón
+2020.0,4.0,Entre Ríos,2.405,Aeropuerto Internacional Ezeiza
+2020.0,4.0,Formosa,1.97,Canning
+2020.0,4.0,Jujuy,2.521,Carlos Spegazzini
+2020.0,4.0,La Pampa,988.0,José Maria Ezeiza
+2020.0,4.0,La Rioja,1.253,La Unión
+2020.0,4.0,Mendoza,1.109,OTROS
+2020.0,4.0,Misiones,2.496,Tristán Suarez
+2020.0,4.0,Neuquén,3.391,Bosques
+2020.0,4.0,Río Negro,2.164,Estanislao Severo Zeballos
+2020.0,4.0,Salta,2.532,Florencio Varela
+2020.0,4.0,San Juan,641.0,Gobernador Julio A. Costa
+2020.0,4.0,San Luis,2.125,Ingeniero Juan Allan
+2020.0,4.0,Santa Cruz,749.0,La Capilla
+2020.0,4.0,Santa Fe,2.729,la rotonda
+2020.0,4.0,Santiago Del Estero,1.128,Villa Brown
+2020.0,4.0,Tierra Del Fuego,849.0,Villa San Luis
+2020.0,4.0,Tucumán,3.644,Villa Santa Rosa
+2020.0,3.0,Buenos Aires,4.838,Villa Vatteone
+2020.0,3.0,Capital Federal,6.381,Blaquier
+2020.0,3.0,Catamarca,3.654,Florentino Ameghino
+2020.0,3.0,Chaco,3.08,Porvenir
+2020.0,3.0,Chubut,740.0,Centinela Del Mar
+2020.0,3.0,Córdoba,3.351,Comandante Nicanor Otamendi
+2020.0,3.0,Corrientes,2.385,Mar del Sur
+2020.0,3.0,Entre Ríos,2.243,Mechongué
+2020.0,3.0,Formosa,1.828,Miramar
+2020.0,3.0,Jujuy,2.191,General Alvear
+2020.0,3.0,La Pampa,1.07,Arribeños
+2020.0,3.0,La Rioja,1.219,Ascensión
+2020.0,3.0,Mendoza,1.019,Ferré
+2020.0,3.0,Misiones,2.414,General Arenales
+2020.0,3.0,Neuquén,3.146,La Angelita
+2020.0,3.0,Río Negro,2.108,La Trinidad
+2020.0,3.0,Salta,2.526,General Belgrano
+2020.0,3.0,San Juan,603.0,Gorchs
+2020.0,3.0,San Luis,2.085,General Guido
+2020.0,3.0,Santa Cruz,665.0,Labarden
+2020.0,3.0,Santa Fe,2.569,General Juan Madariaga
+2020.0,3.0,Santiago Del Estero,1.088,General La Madrid
+2020.0,3.0,Tierra Del Fuego,851.0,Las Martinetas
+2020.0,3.0,Tucumán,3.484,General Las Heras  (Est. Las Heras)
+2020.0,2.0,Buenos Aires,4.566,Lozano
+2020.0,2.0,Capital Federal,6.048,Villars
+2020.0,2.0,Catamarca,3.493,Chacras de San Clemente
+2020.0,2.0,Chaco,2.795,General Lavalle
+2020.0,2.0,Chubut,761.0,OTROS
+2020.0,2.0,Córdoba,3.099,Pavón
+2020.0,2.0,Corrientes,2.215,Loma Verde
+2020.0,2.0,Entre Ríos,2.045,Ranchos
+2020.0,2.0,Formosa,1.687,Villanueva  (Ap. Río Salado)
+2020.0,2.0,Jujuy,1.586,Colonia San Ricardo  (Est. Iriarte)
+2020.0,2.0,La Pampa,803.0,General Pinto
+2020.0,2.0,La Rioja,1.167,Germania  (Est. Mayor José Orellano)
+2020.0,2.0,Mendoza,927.0,Villa Francia  (Est. Coronel Granada)
+2020.0,2.0,Misiones,2.256,Barrio Colinas Verdes
+2020.0,2.0,Neuquén,2.91,Barrio El Boquerón
+2020.0,2.0,Río Negro,1.968,Barrio El Casal
+2020.0,2.0,Salta,2.256,Barrio El Coyunco
+2020.0,2.0,San Juan,631.0,Barrio La Gloria
+2020.0,2.0,San Luis,2.102,Barrio Santa Paula
+2020.0,2.0,Santa Cruz,659.0,Batán
+2020.0,2.0,Santa Fe,2.393,Camet
+2020.0,2.0,Santiago Del Estero,1.041,Chapadmalal
+2020.0,2.0,Tierra Del Fuego,813.0,El Marquesado
+2020.0,2.0,Tucumán,3.27,Estación Chapadmalal
+2020.0,1.0,Buenos Aires,4.518,Mar del Plata
+2020.0,1.0,Capital Federal,5.871,OTROS
+2020.0,1.0,Catamarca,2.913,Sierra de los Padres
+2020.0,1.0,Chaco,2.594,Barrio Ruta 24 Kilómetro 10
+2020.0,1.0,Chubut,712.0,General Rodríguez
+2020.0,1.0,Córdoba,2.939,Barrio Parque General San Martin
+2020.0,1.0,Corrientes,2.054,Billinghurst
+2020.0,1.0,Entre Ríos,1.903,Ciudad Del Libertador General San Martin
+2020.0,1.0,Formosa,1.57,Ciudad Jardin El Libertador
+2020.0,1.0,Jujuy,1.414,OTROS
+2020.0,1.0,La Pampa,729.0,Va Ma Irene De Los Remedios De Escalada
+2020.0,1.0,La Rioja,796.0,Villa Ayacucho
+2020.0,1.0,Mendoza,844.0,Villa Ballester
+2020.0,1.0,Misiones,2.215,Villa Bernardo Monteagudo
+2020.0,1.0,Neuquén,2.777,Villa Chacabuco
+2020.0,1.0,Río Negro,1.906,Villa Coronel Jose M. Zapiola
+2020.0,1.0,Salta,2.143,Villa General Antonio J.  De Sucre
+2020.0,1.0,San Juan,604.0,Villa General Eugenio Necochea
+2020.0,1.0,San Luis,2.099,Villa General Jose Tomas Guido
+2020.0,1.0,Santa Cruz,642.0,Villa General Juan G. Las Heras
+2020.0,1.0,Santa Fe,2.242,Villa Godoy Cruz
+2020.0,1.0,Santiago Del Estero,1.0,Villa Granaderos De San Martín
+2020.0,1.0,Tierra Del Fuego,741.0,Villa Gregoria Matorras
+2020.0,1.0,Tucumán,3.225,Villa José León Suarez
+2019.0,4.0,Buenos Aires,3.077,Villa Juan Martín De Pueyrredon
+2019.0,4.0,Capital Federal,4.42,Villa Libertad
+2019.0,4.0,Catamarca,2.488,Villa Lynch
+2019.0,4.0,Chaco,2.337,Villa Maipu
+2019.0,4.0,Chubut,699.0,Villa Marqués Alejandro  María De Aguado
+2019.0,4.0,Córdoba,2.616,Villa Parque Pres Figueroa Alcorta
+2019.0,4.0,Corrientes,1.926,Villa Parque San Lorenzo
+2019.0,4.0,Entre Ríos,1.701,Villa San Andrés
+2019.0,4.0,Formosa,1.453,Villa Yapeyú
+2019.0,4.0,Jujuy,1.296,Baigorrita
+2019.0,4.0,La Pampa,653.0,Los Toldos
+2019.0,4.0,La Rioja,800.0,Zavalía
+2019.0,4.0,Mendoza,779.0,Banderaló
+2019.0,4.0,Misiones,2.032,Cañada Seca
+2019.0,4.0,Neuquén,2.602,Coronel Charlone
+2019.0,4.0,Río Negro,1.718,Emilio V. Bunge
+2019.0,4.0,Salta,1.908,General Villegas  (Est. Villegas)
+2019.0,4.0,San Juan,604.0,Pichincha
+2019.0,4.0,San Luis,2.069,Piedritas
+2019.0,4.0,Santa Cruz,521.0,Santa Regina
+2019.0,4.0,Santa Fe,2.055,Arroyo Venado
+2019.0,4.0,Santiago Del Estero,979.0,Casbas
+2019.0,4.0,Tierra Del Fuego,727.0,Guaminí
+2019.0,4.0,Tucumán,2.987,Laguna Alsina  (Est. Bonifacio)
+2019.0,3.0,Buenos Aires,2.568,Henderson
+2019.0,3.0,Capital Federal,3.871,Hurlingham
+2019.0,3.0,Catamarca,929.0,Villa Santos Tesei
+2019.0,3.0,Chaco,1.999,William C. Morris
+2019.0,3.0,Chubut,697.0,Ituzaingó Centro
+2019.0,3.0,Córdoba,2.319,Ituzaingó Sur
+2019.0,3.0,Corrientes,1.67,OTROS
+2019.0,3.0,Entre Ríos,1.47,Villa Gobernador Udaondo
+2019.0,3.0,Formosa,1.322,Del Viso
+2019.0,3.0,Jujuy,1.197,José C Paz
+2019.0,3.0,La Pampa,572.0,Tortuguitas
+2019.0,3.0,La Rioja,800.0,Agustín Roca
+2019.0,3.0,Mendoza,611.0,Agustina
+2019.0,3.0,Misiones,1.793,Balneario Laguna de Gómez
+2019.0,3.0,Neuquén,2.375,Fortín Tiburcio
+2019.0,3.0,Río Negro,1.598,Junín
+2019.0,3.0,Salta,1.475,Laplacette
+2019.0,3.0,San Juan,604.0,Morse
+2019.0,3.0,San Luis,1.974,Saforcada
+2019.0,3.0,Santa Cruz,502.0,Aguas Verdes
+2019.0,3.0,Santa Fe,1.817,Las Toninas
+2019.0,3.0,Santiago Del Estero,939.0,Lucila Del Mar
+2019.0,3.0,Tierra Del Fuego,669.0,Mar de Ajó - San Bernardo
+2019.0,3.0,Tucumán,1.932,San Clemente del Tuyú
+2019.0,2.0,Buenos Aires,2.248,Santa Teresita - Mar del Tuyú
+2019.0,2.0,Capital Federal,3.035,20 De Junio
+2019.0,2.0,Catamarca,881.0,Aldo Bonzi
+2019.0,2.0,Chaco,1.601,Ciudad Evita
+2019.0,2.0,Chubut,605.0,Gonzalez Catán
+2019.0,2.0,Córdoba,1.843,Gregorio De Laferrere
+2019.0,2.0,Corrientes,1.383,Isidro Casanova
+2019.0,2.0,Entre Ríos,1.219,La Tablada
+2019.0,2.0,Formosa,1.084,Lomas Del Mirador
+2019.0,2.0,Jujuy,1.207,Rafael Castillo
+2019.0,2.0,La Pampa,549.0,Ramos Mejía
+2019.0,2.0,La Rioja,789.0,San Justo
+2019.0,2.0,Mendoza,603.0,Tapiales
+2019.0,2.0,Misiones,1.45,Villa  Eduardo Madero
+2019.0,2.0,Neuquén,1.724,Villa Luzuriaga
+2019.0,2.0,Río Negro,1.163,Virrey Del Pino
+2019.0,2.0,Salta,1.255,Abasto
+2019.0,2.0,San Juan,612.0,Angel Etcheverry
+2019.0,2.0,San Luis,1.988,Arana
+2019.0,2.0,Santa Cruz,601.0,Arturo Segui
+2019.0,2.0,Santa Fe,1.507,Barrio El Carmen Oeste
+2019.0,2.0,Santiago Del Estero,710.0,Barrio El Peligro
+2019.0,2.0,Tierra Del Fuego,634.0,Barrio Gambier
+2019.0,2.0,Tucumán,1.853,City Bell
+2019.0,1.0,Buenos Aires,1.964,colonia la plata
+2019.0,1.0,Capital Federal,2.472,El Retiro
+2019.0,1.0,Catamarca,796.0,Ignacio Correas
+2019.0,1.0,Chaco,1.344,Joaquin Gorina
+2019.0,1.0,Chubut,589.0,Jose Hernandez
+2019.0,1.0,Córdoba,1.573,Jose Melchor Romero
+2019.0,1.0,Corrientes,1.205,La Cumbre
+2019.0,1.0,Entre Ríos,1.066,La Plata
+2019.0,1.0,Formosa,983.0,Lisandro Olmos
+2019.0,1.0,Jujuy,856.0,Los Hornos
+2019.0,1.0,La Pampa,506.0,Manuel B Gonnet
+2019.0,1.0,La Rioja,709.0,OTROS
+2019.0,1.0,Mendoza,574.0,Ringuelet
+2019.0,1.0,Misiones,1.251,ruta del sol
+2019.0,1.0,Neuquén,1.588,Tolosa
+2019.0,1.0,Río Negro,1.049,Transradio
+2019.0,1.0,Salta,1.038,Villa Elisa
+2019.0,1.0,San Juan,584.0,Villa Elvira
+2019.0,1.0,San Luis,871.0,Villa Garibaldi
+2019.0,1.0,Santa Cruz,578.0,Villa Montoro
+2019.0,1.0,Santa Fe,1.299,Villa Parque Sicardi
+2019.0,1.0,Santiago Del Estero,642.0,Gerli
+2019.0,1.0,Tierra Del Fuego,634.0,Lanús Este
+2019.0,1.0,Tucumán,1.657,Lanús Oeste
+2018.0,4.0,Buenos Aires,1.693,Monte Chingolo
+2018.0,4.0,Capital Federal,2.294,Remedios Escalada De San Martin
+2018.0,4.0,Catamarca,804.0,Valentín Alsina
+2018.0,4.0,Chaco,1.349,Laprida
+2018.0,4.0,Chubut,609.0,Pueblo Nuevo
+2018.0,4.0,Córdoba,1.581,Pueblo San Jorge
+2018.0,4.0,Corrientes,1.214,Coronel Boerr
+2018.0,4.0,Entre Ríos,1.102,El Trigo
+2018.0,4.0,Formosa,982.0,Las Flores
+2018.0,4.0,Jujuy,856.0,Pardo
+2018.0,4.0,La Pampa,432.0,Alberdi Viejo
+2018.0,4.0,La Rioja,709.0,El Dorado
+2018.0,4.0,Mendoza,575.0,Fortín Acha
+2018.0,4.0,Misiones,1.25,Juan Bautista Alberdi  (Est. Alberdi)
+2018.0,4.0,Neuquén,1.589,Leandro N. Alem
+2018.0,4.0,Río Negro,1.049,Vedia
+2018.0,4.0,Salta,1.046,Arenaza
+2018.0,4.0,San Juan,572.0,Bayauca
+2018.0,4.0,San Luis,882.0,Carlos Salas
+2018.0,4.0,Santa Cruz,512.0,Coronel Martínez de Hoz  (Ap. Kilómetro 322)
+2018.0,4.0,Santa Fe,1.318,El Triunfo
+2018.0,4.0,Santiago Del Estero,631.0,Las Toscas
+2018.0,4.0,Tierra Del Fuego,744.0,Lincoln
+2018.0,4.0,Tucumán,1.658,Pasteur
+2018.0,3.0,Buenos Aires,1.678,Roberts
+2018.0,3.0,Capital Federal,2.164,Arenas Verdes
+2018.0,3.0,Catamarca,781.0,Licenciado Matienzo
+2018.0,3.0,Chaco,1.289,Lobería
+2018.0,3.0,Chubut,608.0,Pieres
+2018.0,3.0,Córdoba,1.482,San Manuel
+2018.0,3.0,Corrientes,1.149,Tamangueyú
+2018.0,3.0,Entre Ríos,1.052,Antonio Carboni
+2018.0,3.0,Formosa,932.0,Elvira
+2018.0,3.0,Jujuy,767.0,Lobos
+2018.0,3.0,La Pampa,428.0,Salvador María
+2018.0,3.0,La Rioja,616.0,Banfield
+2018.0,3.0,Mendoza,579.0,Llavallol
+2018.0,3.0,Misiones,1.249,Lomas De Zamora
+2018.0,3.0,Neuquén,1.467,Temperley
+2018.0,3.0,Río Negro,1.006,Turdera
+2018.0,3.0,Salta,927.0,Villa Centenario
+2018.0,3.0,San Juan,574.0,Villa Fiorito
+2018.0,3.0,San Luis,881.0,Barrio Las Casuarinas
+2018.0,3.0,Santa Cruz,537.0,Carlos Keen
+2018.0,3.0,Santa Fe,1.236,Cortines
+2018.0,3.0,Santiago Del Estero,578.0,José María Jáuregui (Est. Jáuregui)
+2018.0,3.0,Tierra Del Fuego,599.0,Lezica y Torrezuri
+2018.0,3.0,Tucumán,1.526,Luján
+2018.0,2.0,Buenos Aires,1.468,Olivera
+2018.0,2.0,Capital Federal,1.894,Open Door  (Est. Dr. Domingo Cabred)
+2018.0,2.0,Catamarca,769.0,OTROS
+2018.0,2.0,Chaco,1.25,Torres
+2018.0,2.0,Chubut,533.0,General Mansilla  (Est. Bartolomé Bavio)
+2018.0,2.0,Córdoba,1.388,Magdalena
+2018.0,2.0,Corrientes,1.088,Vieytes
+2018.0,2.0,Entre Ríos,1.019,Las Armas
+2018.0,2.0,Formosa,897.0,Maipú
+2018.0,2.0,Jujuy,629.0,Santo Domingo
+2018.0,2.0,La Pampa,410.0,Area De Promocion El Triángulo
+2018.0,2.0,La Rioja,559.0,Grand Bourg
+2018.0,2.0,Mendoza,588.0,Ingeniero Adolfo Sourdeaux
+2018.0,2.0,Misiones,1.176,Ingeniero Pablo Nogués
+2018.0,2.0,Neuquén,1.337,Los Polvorines
+2018.0,2.0,Río Negro,951.0,Malvinas Argentinas
+2018.0,2.0,Salta,893.0,Tortuguitas
+2018.0,2.0,San Juan,585.0,Villa De Mayo
+2018.0,2.0,San Luis,590.0,Coronel Vidal
+2018.0,2.0,Santa Cruz,519.0,General Pirán
+2018.0,2.0,Santa Fe,1.175,La Armonía
+2018.0,2.0,Santiago Del Estero,591.0,La Caleta
+2018.0,2.0,Tierra Del Fuego,594.0,Mar de Cobo
+2018.0,2.0,Tucumán,1.351,Santa Clara del Mar
+2018.0,1.0,Buenos Aires,1.42,Vivoratá
+2018.0,1.0,Capital Federal,1.775,Marcos Paz
+2018.0,1.0,Catamarca,820.0,Gowland
+2018.0,1.0,Chaco,1.244,Jorge Born
+2018.0,1.0,Chubut,542.0,Mercedes
+2018.0,1.0,Córdoba,1.279,Libertad
+2018.0,1.0,Corrientes,1.112,Mariano Acosta
+2018.0,1.0,Entre Ríos,988.0,Merlo
+2018.0,1.0,Formosa,1.106,OTROS
+2018.0,1.0,Jujuy,674.0,Pontevedra
+2018.0,1.0,La Pampa,400.0,San Antonio De Padua
+2018.0,1.0,La Rioja,589.0,Abbott
+2018.0,1.0,Mendoza,588.0,San Miguel del Monte  (Est. Monte)
+2018.0,1.0,Misiones,1.208,Balneario Sauce Grande
+2018.0,1.0,Neuquén,1.196,Monte Hermoso
+2018.0,1.0,Río Negro,898.0,Cuartel V
+2018.0,1.0,Salta,919.0,Francisco Alvarez
+2018.0,1.0,San Juan,585.0,La Reja
+2018.0,1.0,San Luis,589.0,Moreno
+2018.0,1.0,Santa Cruz,519.0,Paso Del Rey
+2018.0,1.0,Santa Fe,1.117,Trujui
+2018.0,1.0,Santiago Del Estero,625.0,Castelar
+2018.0,1.0,Tierra Del Fuego,577.0,El Palomar
+2018.0,1.0,Tucumán,936.0,Haedo
+2017.0,4.0,Buenos Aires,1.297,Moron
+2017.0,4.0,Capital Federal,1.52,Villa Sarmiento
+2017.0,4.0,Catamarca,778.0,José Juan Almeyra
+2017.0,4.0,Chaco,1.17,Las Marianas
+2017.0,4.0,Chubut,541.0,Navarro
+2017.0,4.0,Córdoba,1.164,Villa Moll  (Est. Moll)
+2017.0,4.0,Corrientes,1.038,Claraz
+2017.0,4.0,Entre Ríos,930.0,Costa Bonita
+2017.0,4.0,Formosa,1.011,Energía
+2017.0,4.0,Jujuy,664.0,Juan N. Fernández
+2017.0,4.0,La Pampa,398.0,Necochea - Quequén
+2017.0,4.0,La Rioja,588.0,Nicanor Olivera  (Est. La Dulce)
+2017.0,4.0,Mendoza,571.0,OTROS
+2017.0,4.0,Misiones,1.132,Colonia Hinojo
+2017.0,4.0,Neuquén,1.072,Hinojo
+2017.0,4.0,Río Negro,805.0,Olavarría
+2017.0,4.0,Salta,845.0,Sierra Chica
+2017.0,4.0,San Juan,583.0,Sierras Bayas
+2017.0,4.0,San Luis,573.0,Villa Alfredo Fortabat
+2017.0,4.0,Santa Cruz,521.0,OTROS
+2017.0,4.0,Santa Fe,1.03,Bahía San Blas
+2017.0,4.0,Santiago Del Estero,617.0,Carmen de Patagones
+2017.0,4.0,Tierra Del Fuego,520.0,José B. Casas
+2017.0,4.0,Tucumán,911.0,Juan A. Pradere
+2017.0,3.0,Buenos Aires,843.0,Stroeder
+2017.0,3.0,Capital Federal,1.064,Villalonga
+2017.0,3.0,Catamarca,526.0,Capitán Castro
+2017.0,3.0,Chaco,848.0,Chiclana
+2017.0,3.0,Chubut,348.0,Francisco Madero
+2017.0,3.0,Córdoba,912.0,Inocencio Sosa
+2017.0,3.0,Corrientes,745.0,Juan José Paso
+2017.0,3.0,Entre Ríos,699.0,Magdala
+2017.0,3.0,Formosa,707.0,Mones Cazón
+2017.0,3.0,Jujuy,469.0,Nueva Plata
+2017.0,3.0,La Pampa,344.0,Pehuajó
+2017.0,3.0,La Rioja,501.0,San Bernardo  (Est. Guanaco)
+2017.0,3.0,Mendoza,351.0,San Esteban
+2017.0,3.0,Misiones,843.0,Pellegrini
+2017.0,3.0,Neuquén,817.0,Acevedo
+2017.0,3.0,Río Negro,549.0,Fontezuela
+2017.0,3.0,Salta,613.0,Guerrico
+2017.0,3.0,San Juan,345.0,Juan A. de la Peña
+2017.0,3.0,San Luis,350.0,Juan Anchorena  (Est. Urquiza)
+2017.0,3.0,Santa Cruz,361.0,La Violeta
+2017.0,3.0,Santa Fe,779.0,Manuel Ocampo
+2017.0,3.0,Santiago Del Estero,518.0,Mariano H. Alfonzo  (Est. San Patricio)
+2017.0,3.0,Tierra Del Fuego,348.0,Pergamino
+2017.0,3.0,Tucumán,639.0,Pinzón
+2017.0,2.0,Buenos Aires,720.0,Rancagua
+2017.0,2.0,Capital Federal,884.0,Villa San José
+2017.0,2.0,Catamarca,510.0,Casalins
+2017.0,2.0,Chaco,769.0,Pila
+2017.0,2.0,Chubut,345.0,Del Viso
+2017.0,2.0,Córdoba,742.0,Fátima
+2017.0,2.0,Corrientes,679.0,La Lonja
+2017.0,2.0,Entre Ríos,629.0,Los Cachorros
+2017.0,2.0,Formosa,618.0,Manuel Alberti
+2017.0,2.0,Jujuy,454.0,Manzanares
+2017.0,2.0,La Pampa,332.0,Maquinista F. Savio (oeste)
+2017.0,2.0,La Rioja,553.0,OTROS
+2017.0,2.0,Mendoza,351.0,Pilar
+2017.0,2.0,Misiones,760.0,Presidente Derqui
+2017.0,2.0,Neuquén,670.0,Santa Teresa
+2017.0,2.0,Río Negro,474.0,Tortuguitas
+2017.0,2.0,Salta,576.0,Villa Astolfi
+2017.0,2.0,San Juan,349.0,Villa Rosa
+2017.0,2.0,San Luis,350.0,Zelaya
+2017.0,2.0,Santa Cruz,360.0,Carilo
+2017.0,2.0,Santa Fe,684.0,Pinamar
+2017.0,2.0,Santiago Del Estero,506.0,Guernica
+2017.0,2.0,Tierra Del Fuego,348.0,Bordenave
+2017.0,2.0,Tucumán,609.0,Darregueira
+2017.0,1.0,Buenos Aires,668.0,Puán
+2017.0,1.0,Capital Federal,835.0,San Germán
+2017.0,1.0,Catamarca,497.0,Villa Iris
+2017.0,1.0,Chaco,731.0,Pipinas
+2017.0,1.0,Chubut,344.0,Punta Indio
+2017.0,1.0,Córdoba,680.0,Verónica
+2017.0,1.0,Corrientes,643.0,Bernal
+2017.0,1.0,Entre Ríos,595.0,Bernal Oeste
+2017.0,1.0,Formosa,574.0,Don Bosco
+2017.0,1.0,Jujuy,439.0,Ezpeleta
+2017.0,1.0,La Pampa,322.0,Ezpeleta Oeste
+2017.0,1.0,La Rioja,543.0,Quilmes
+2017.0,1.0,Mendoza,351.0,Quilmes Oeste
+2017.0,1.0,Misiones,734.0,San Francisco Solano
+2017.0,1.0,Neuquén,603.0,Villa La Florida
+2017.0,1.0,Río Negro,445.0,EL PARAÍSO
+2017.0,1.0,Salta,534.0,OTROS
+2017.0,1.0,San Juan,349.0,Pérez Millán
+2017.0,1.0,San Luis,350.0,Ramallo
+2017.0,1.0,Santa Cruz,359.0,VILLA RAMALLO
+2017.0,1.0,Santa Fe,628.0,OTROS
+2017.0,1.0,Santiago Del Estero,495.0,Rauch
+2017.0,1.0,Tierra Del Fuego,348.0,América
+2017.0,1.0,Tucumán,588.0,Fortín Olavarría
+2016.0,4.0,Buenos Aires,635.0,González Moreno
+2016.0,4.0,Capital Federal,796.0,Sansinena
+2016.0,4.0,Catamarca,489.0,Las Carabelas
+2016.0,4.0,Chaco,708.0,Rafael Obligado
+2016.0,4.0,Chubut,341.0,Rojas
+2016.0,4.0,Córdoba,647.0,Carlos Beguerie
+2016.0,4.0,Corrientes,624.0,Roque Pérez
+2016.0,4.0,Entre Ríos,581.0,Arroyo Corto
+2016.0,4.0,Formosa,563.0,Espartillar
+2016.0,4.0,Jujuy,432.0,Goyena
+2016.0,4.0,La Pampa,319.0,Pigüé
+2016.0,4.0,La Rioja,534.0,Saavedra
+2016.0,4.0,Mendoza,351.0,Alvarez de Toledo
+2016.0,4.0,Misiones,711.0,Cazón
+2016.0,4.0,Neuquén,568.0,Del Carril
+2016.0,4.0,Río Negro,437.0,Saladillo
+2016.0,4.0,Salta,522.0,Quenumá
+2016.0,4.0,San Juan,349.0,Salliqueló
+2016.0,4.0,San Luis,350.0,Arroyo Dulce
+2016.0,4.0,Santa Cruz,356.0,Gahan
+2016.0,4.0,Santa Fe,604.0,Inés Indart
+2016.0,4.0,Santiago Del Estero,487.0,Salto
+2016.0,4.0,Tierra Del Fuego,348.0,Azcuénaga
+2016.0,4.0,Tucumán,573.0,Cucullú
+2016.0,3.0,Buenos Aires,591.0,San Andrés de Giles
+2016.0,3.0,Capital Federal,738.0,Solís
+2016.0,3.0,Catamarca,473.0,Villa Espil
+2016.0,3.0,Chaco,672.0,Villa Ruiz
+2016.0,3.0,Chubut,334.0,Duggan
+2016.0,3.0,Córdoba,607.0,San Antonio de Areco
+2016.0,3.0,Corrientes,596.0,Villa Lía
+2016.0,3.0,Entre Ríos,559.0,Balneario San Cayetano
+2016.0,3.0,Formosa,542.0,Ochandío
+2016.0,3.0,Jujuy,422.0,San Cayetano
+2016.0,3.0,La Pampa,314.0,San Fernando
+2016.0,3.0,La Rioja,508.0,Victoria
+2016.0,3.0,Mendoza,351.0,Virreyes
+2016.0,3.0,Misiones,674.0,Acassuso
+2016.0,3.0,Neuquén,529.0,Beccar
+2016.0,3.0,Río Negro,416.0,Boulogne Sur Mer
+2016.0,3.0,Salta,505.0,Martínez
+2016.0,3.0,San Juan,349.0,San Isidro
+2016.0,3.0,San Luis,350.0,Villa Adelina
+2016.0,3.0,Santa Cruz,354.0,Bella Vista
+2016.0,3.0,Santa Fe,568.0,Campo De Mayo
+2016.0,3.0,Santiago Del Estero,467.0,Muñiz
+2016.0,3.0,Tierra Del Fuego,348.0,San Miguel
+2016.0,3.0,Tucumán,554.0,Conesa
+2016.0,2.0,Buenos Aires,542.0,Erézcano
+2016.0,2.0,Capital Federal,658.0,General Rojo
+2016.0,2.0,Catamarca,436.0,San Nicolás de los Arroyos
+2016.0,2.0,Chaco,630.0,Río Tala
+2016.0,2.0,Chubut,334.0,San Pedro
+2016.0,2.0,Córdoba,552.0,Santa Lucía
+2016.0,2.0,Corrientes,560.0,Alejandro Korn
+2016.0,2.0,Entre Ríos,513.0,Domselaar
+2016.0,2.0,Formosa,510.0,San Vicente
+2016.0,2.0,Jujuy,384.0,General Rivas
+2016.0,2.0,La Pampa,315.0,Suipacha
+2016.0,2.0,La Rioja,477.0,De la Canal
+2016.0,2.0,Mendoza,350.0,Desvío Aguirre
+2016.0,2.0,Misiones,623.0,Gardey
+2016.0,2.0,Neuquén,487.0,María Ignacia  (Est. Vela)
+2016.0,2.0,Río Negro,398.0,OTROS
+2016.0,2.0,Salta,475.0,Tandil
+2016.0,2.0,San Juan,349.0,Tapalqué
+2016.0,2.0,San Luis,350.0,Benavídez
+2016.0,2.0,Santa Cruz,350.0,Dique Luján
+2016.0,2.0,Santa Fe,514.0,Don Torcuato Este
+2016.0,2.0,Santiago Del Estero,431.0,Don Torcuato Oeste
+2016.0,2.0,Tierra Del Fuego,348.0,El Talar
+2016.0,2.0,Tucumán,520.0,General Pacheco
+2016.0,1.0,Buenos Aires,499.0,Los Troncos Del Talar
+2016.0,1.0,Capital Federal,605.0,Nordelta
+2016.0,1.0,Catamarca,420.0,OTROS
+2016.0,1.0,Chaco,599.0,Ricardo Rojas
+2016.0,1.0,Chubut,338.0,Rincón de Milberg
+2016.0,1.0,Córdoba,516.0,Tigre
+2016.0,1.0,Corrientes,537.0,General Conesa
+2016.0,1.0,Entre Ríos,508.0,Villa Roch
+2016.0,1.0,Formosa,487.0,Saldungaray
+2016.0,1.0,Jujuy,377.0,Sierra de la Ventana
+2016.0,1.0,La Pampa,305.0,Tornquist
+2016.0,1.0,La Rioja,462.0,Villa Serrana La Gruta
+2016.0,1.0,Mendoza,350.0,Villa Ventana
+2016.0,1.0,Misiones,600.0,30 de Agosto
+2016.0,1.0,Neuquén,442.0,Girodias
+2016.0,1.0,Río Negro,383.0,La Carreta
+2016.0,1.0,Salta,474.0,OTROS
+2016.0,1.0,San Juan,349.0,Trenque Lauquen
+2016.0,1.0,San Luis,350.0,Trongé
+2016.0,1.0,Santa Cruz,348.0,Claromecó
+2016.0,1.0,Santa Fe,490.0,Copetonas
+2016.0,1.0,Santiago Del Estero,417.0,Lin Calel
+2016.0,1.0,Tierra Del Fuego,348.0,Micaela Cascallares  (Est. Cascallares)
+2016.0,1.0,Tucumán,500.0,Orense
+2015.0,4.0,Buenos Aires,488.0,Reta
+2015.0,4.0,Capital Federal,593.0,San Francisco de Bellocq
+2015.0,4.0,Catamarca,412.0,San Mayol
+2015.0,4.0,Chaco,583.0,Tres Arroyos
+2015.0,4.0,Chubut,328.0,11 De Septiembre
+2015.0,4.0,Córdoba,507.0,Caseros
+2015.0,4.0,Corrientes,526.0,Churruca
+2015.0,4.0,Entre Ríos,501.0,Ciudad Jardín Lomas del Palomar
+2015.0,4.0,Formosa,466.0,Ciudadela
+2015.0,4.0,Jujuy,372.0,El Libertador
+2015.0,4.0,La Pampa,294.0,Jose Ingenieros
+2015.0,4.0,La Rioja,452.0,Loma Hermosa
+2015.0,4.0,Mendoza,350.0,Martín Coronado
+2015.0,4.0,Misiones,590.0,Pablo Podestá
+2015.0,4.0,Neuquén,436.0,Remedios De Escalada
+2015.0,4.0,Río Negro,377.0,Saenz Peña
+2015.0,4.0,Salta,467.0,Santos Lugares
+2015.0,4.0,San Juan,348.0,Villa Bosch (Est. Juan Maria Bosch)
+2015.0,4.0,San Luis,350.0,Villa Raffo
+2015.0,4.0,Santa Cruz,348.0,Tres Lomas
+2015.0,4.0,Santa Fe,481.0,Carapachay
+2015.0,4.0,Santiago Del Estero,409.0,Florida
+2015.0,4.0,Tierra Del Fuego,347.0,Florida Oeste
+2015.0,4.0,Tucumán,488.0,La Lucila
+2015.0,3.0,Buenos Aires,470.0,Munro
+2015.0,3.0,Capital Federal,566.0,Olivos
+2015.0,3.0,Catamarca,388.0,Vicente López
+2015.0,3.0,Chaco,547.0,Villa Adelina
+2015.0,3.0,Chubut,328.0,Villa Martelli
+2015.0,3.0,Córdoba,487.0,Villa Gesell
+2015.0,3.0,Corrientes,506.0,Argerich
+2015.0,3.0,Entre Ríos,477.0,Country Los Medanos
+2015.0,3.0,Formosa,417.0,Juan Cousté  (Est. Algarrobo)
+2015.0,3.0,Jujuy,353.0,Mayor Buratovich
+2015.0,3.0,La Pampa,291.0,Médanos
+2015.0,3.0,La Rioja,425.0,Pedro Luro
+2015.0,3.0,Mendoza,350.0,Teniente Origone
+2015.0,3.0,Misiones,563.0,Lima
+2015.0,3.0,Neuquén,423.0,Zárate
+2015.0,3.0,Río Negro,374.0,Ciudad Autónoma de Buenos Aires
+2015.0,3.0,Salta,442.0,OTROS
+2015.0,3.0,San Juan,348.0,El Bolsón
+2015.0,3.0,San Luis,350.0,El Rodeo
+2015.0,3.0,Santa Cruz,348.0,La Puerta
+2015.0,3.0,Santa Fe,456.0,Las Chacritas
+2015.0,3.0,Santiago Del Estero,391.0,Los Talas
+2015.0,3.0,Tierra Del Fuego,348.0,Los Varela
+2015.0,3.0,Tucumán,457.0,Ancasti
+2015.0,2.0,Buenos Aires,446.0,Aconquija
+2015.0,2.0,Capital Federal,531.0,Andalgalá
+2015.0,2.0,Catamarca,368.0,Chaquiago
+2015.0,2.0,Chaco,519.0,El Alamito
+2015.0,2.0,Chubut,322.0,El Potrero
+2015.0,2.0,Córdoba,456.0,La Aguada
+2015.0,2.0,Corrientes,485.0,La Mesada
+2015.0,2.0,Entre Ríos,455.0,Antofagasta de la Sierra
+2015.0,2.0,Formosa,376.0,Belén
+2015.0,2.0,Jujuy,341.0,El Durazno
+2015.0,2.0,La Pampa,286.0,Hualfín
+2015.0,2.0,La Rioja,400.0,Las Juntas
+2015.0,2.0,Mendoza,350.0,Londres
+2015.0,2.0,Misiones,533.0,Capayán
+2015.0,2.0,Neuquén,406.0,Chumbicha
+2015.0,2.0,Río Negro,367.0,Colonia del Valle
+2015.0,2.0,Salta,422.0,Colonia Nueva Coneta
+2015.0,2.0,San Juan,348.0,Coneta
+2015.0,2.0,San Luis,350.0,Huillapima
+2015.0,2.0,Santa Cruz,347.0,Los Angeles
+2015.0,2.0,Santa Fe,430.0,Miraflores
+2015.0,2.0,Santiago Del Estero,373.0,San Martín
+2015.0,2.0,Tierra Del Fuego,348.0,El Pantanillo
+2015.0,2.0,Tucumán,431.0,San Fernando del Valle de Catamarca
+2015.0,1.0,Buenos Aires,432.0,El Alto
+2015.0,1.0,Capital Federal,500.0,Tapso
+2015.0,1.0,Catamarca,348.0,El Hueco
+2015.0,1.0,Chaco,490.0,La Carrera
+2015.0,1.0,Chubut,321.0,La Falda De San Antonio
+2015.0,1.0,Córdoba,430.0,La Tercena
+2015.0,1.0,Corrientes,463.0,San Antonio
+2015.0,1.0,Entre Ríos,435.0,Villa Las Pirquitas
+2015.0,1.0,Formosa,338.0,Icaño
+2015.0,1.0,Jujuy,324.0,Quirós
+2015.0,1.0,La Pampa,283.0,Recreo
+2015.0,1.0,La Rioja,378.0,San Antonio
+2015.0,1.0,Mendoza,350.0,OTROS
+2015.0,1.0,Misiones,497.0,La Merced
+2015.0,1.0,Neuquén,391.0,La Viña
+2015.0,1.0,Río Negro,359.0,Las Lajas
+2015.0,1.0,Salta,402.0,San Antonio
+2015.0,1.0,San Juan,348.0,Colpes
+2015.0,1.0,San Luis,350.0,Mutquin
+2015.0,1.0,Santa Cruz,347.0,Pomán
+2015.0,1.0,Santa Fe,406.0,San Miguel
+2015.0,1.0,Santiago Del Estero,357.0,Saujil
+2015.0,1.0,Tierra Del Fuego,345.0,Siján
+2015.0,1.0,Tucumán,407.0,La Loma
+2014.0,4.0,Buenos Aires,420.0,San José
+2014.0,4.0,Capital Federal,478.0,Santa María
+2014.0,4.0,Catamarca,334.0,Alijilán
+2014.0,4.0,Chaco,398.0,Bañado de Ovanta
+2014.0,4.0,Chubut,317.0,Lavalle
+2014.0,4.0,Córdoba,409.0,Los Altos
+2014.0,4.0,Corrientes,381.0,Fiambalá
+2014.0,4.0,Entre Ríos,380.0,Tinogasta
+2014.0,4.0,Formosa,302.0,El Bañado
+2014.0,4.0,Jujuy,313.0,El Portezuelo
+2014.0,4.0,La Pampa,275.0,Polcos
+2014.0,4.0,La Rioja,358.0,Pozo Del Mistol
+2014.0,4.0,Mendoza,350.0,San Isidro
+2014.0,4.0,Misiones,403.0,Santa Rosa
+2014.0,4.0,Neuquén,385.0,Sumalao
+2014.0,4.0,Río Negro,354.0,Villa Dolores
+2014.0,4.0,Salta,386.0,Gancedo
+2014.0,4.0,San Juan,348.0,General Capdevila
+2014.0,4.0,San Luis,350.0,General Pinedo
+2014.0,4.0,Santa Cruz,333.0,Colonia Benítez
+2014.0,4.0,Santa Fe,378.0,Margarita Belén
+2014.0,4.0,Santiago Del Estero,346.0,Hermoso Campo
+2014.0,4.0,Tierra Del Fuego,347.0,Itín
+2014.0,4.0,Tucumán,386.0,Colonia Aborigen
+2014.0,3.0,Buenos Aires,397.0,Machagai
+2014.0,3.0,Capital Federal,444.0,Las Breñas
+2014.0,3.0,Catamarca,292.0,Concepción del Bermejo
+2014.0,3.0,Chaco,346.0,Los Frentones
+2014.0,3.0,Chubut,317.0,Pampa del Infierno
+2014.0,3.0,Córdoba,366.0,Taco Pozo
+2014.0,3.0,Corrientes,341.0,General Vedia
+2014.0,3.0,Entre Ríos,340.0,Isla del Cerrito
+2014.0,3.0,Formosa,266.0,La Leonesa
+2014.0,3.0,Jujuy,293.0,Las Palmas
+2014.0,3.0,La Pampa,282.0,Puerto Bermejo Nuevo
+2014.0,3.0,La Rioja,310.0,Puerto Eva Perón
+2014.0,3.0,Mendoza,350.0,Charata
+2014.0,3.0,Misiones,358.0,Presidencia Roque Sáenz Peña
+2014.0,3.0,Neuquén,374.0,Chorotis
+2014.0,3.0,Río Negro,348.0,OTROS
+2014.0,3.0,Salta,341.0,Santa Sylvina
+2014.0,3.0,San Juan,347.0,Corzuela
+2014.0,3.0,San Luis,350.0,La Escondida
+2014.0,3.0,Santa Cruz,331.0,La Verde
+2014.0,3.0,Santa Fe,338.0,Lapachito
+2014.0,3.0,Santiago Del Estero,310.0,Makallé
+2014.0,3.0,Tierra Del Fuego,347.0,El Espinillo
+2014.0,3.0,Tucumán,335.0,El Sauzal
+2014.0,2.0,Buenos Aires,385.0,El Sauzalito
+2014.0,2.0,Capital Federal,425.0,Fortín Lavalle
+2014.0,2.0,Catamarca,292.0,Fuerte Esperanza
+2014.0,2.0,Chaco,342.0,Juan José Castelli
+2014.0,2.0,Chubut,316.0,Miraflores
+2014.0,2.0,Córdoba,356.0,Nueva Pompeya
+2014.0,2.0,Corrientes,337.0,Villa Río Bermejito
+2014.0,2.0,Entre Ríos,331.0,Wichi
+2014.0,2.0,Formosa,265.0,Avia Terai
+2014.0,2.0,Jujuy,277.0,Campo Largo
+2014.0,2.0,La Pampa,268.0,Colonia Popular
+2014.0,2.0,La Rioja,310.0,Laguna Blanca
+2014.0,2.0,Mendoza,350.0,Puerto Tirol
+2014.0,2.0,Misiones,354.0,Ciervo Petiso
+2014.0,2.0,Neuquén,366.0,General José de San Martín
+2014.0,2.0,Río Negro,343.0,La Eduvigis
+2014.0,2.0,Salta,339.0,Laguna Limpia
+2014.0,2.0,San Juan,347.0,Pampa Almirón
+2014.0,2.0,San Luis,350.0,Pampa del Indio
+2014.0,2.0,Santa Cruz,332.0,Presidencia Roca
+2014.0,2.0,Santa Fe,331.0,Tres Isletas
+2014.0,2.0,Santiago Del Estero,307.0,Coronel Du Graty
+2014.0,2.0,Tierra Del Fuego,347.0,Enrique Urién
+2014.0,2.0,Tucumán,335.0,Villa Angela
+2014.0,1.0,Buenos Aires,373.0,La Clotilde
+2014.0,1.0,Capital Federal,402.0,La Tigra
+2014.0,1.0,Catamarca,280.0,San Bernardo
+2014.0,1.0,Chaco,326.0,OTROS
+2014.0,1.0,Chubut,318.0,Presidencia de la Plaza
+2014.0,1.0,Córdoba,339.0,Quitilipi
+2014.0,1.0,Corrientes,322.0,Villa El Palmar
+2014.0,1.0,Entre Ríos,317.0,Barranqueras
+2014.0,1.0,Formosa,257.0,Basail
+2014.0,1.0,Jujuy,269.0,Fontana
+2014.0,1.0,La Pampa,265.0,OTROS
+2014.0,1.0,La Rioja,296.0,Puerto Vilelas
+2014.0,1.0,Mendoza,350.0,Resistencia
+2014.0,1.0,Misiones,340.0,Samuhú
+2014.0,1.0,Neuquén,355.0,Villa Berthet
+2014.0,1.0,Río Negro,335.0,Capitán Solari
+2014.0,1.0,Salta,330.0,Colonia Elisa
+2014.0,1.0,San Juan,347.0,Colonias Unidas
+2014.0,1.0,San Luis,350.0,Las Garcitas
+2014.0,1.0,Santa Cruz,332.0,Charadai
+2014.0,1.0,Santa Fe,315.0,Arroyo Verde
+2014.0,1.0,Santiago Del Estero,295.0,Puerto Madryn
+2014.0,1.0,Tierra Del Fuego,345.0,Puerto Pirámide
+2014.0,1.0,Tucumán,321.0,Quinta El Mirador
+,,,,Reserva Area Protegida El Doradillo
+,,,,Cholila
+,,,,El Hoyo
+,,,,El Maitén
+,,,,Epuyén
+,,,,Gualjaina
+,,,,Lago Puelo
+,,,,Leleque
+,,,,Acceso Norte
+,,,,Barrio Caleta Cordova
+,,,,Comodoro Rivadavia
+,,,,Diadema Argentina
+,,,,Km. 11 - Cuarteles
+,,,,Rada Tilly
+,,,,Camarones
+,,,,Garayalde
+,,,,Corcovado
+,,,,Esquel
+,,,,Lago Rosario
+,,,,Los Cipreses
+,,,,Trevelín
+,,,,Villa Futalaufquen
+,,,,28 de Julio
+,,,,Dolavon
+,,,,Gaiman
+,,,,OTROS
+,,,,Blancuntre
+,,,,El Escorial
+,,,,Gastre
+,,,,Lagunita Salada
+,,,,Yala Laubat
+,,,,Aldea Epulef
+,,,,Carrenleufú
+,,,,Colan Conhue
+,,,,Paso del Sapo
+,,,,Tecka
+,,,,El Mirasol
+,,,,Las Plumas
+,,,,OTROS
+,,,,Cerro Cóndor
+,,,,Los Altares
+,,,,Paso de Indios
+,,,,Playa Magagna
+,,,,Playa Unión
+,,,,Rawson
+,,,,Trelew
+,,,,Aldea Apeleg
+,,,,Aldea Beleiro
+,,,,Alto Río Senguer
+,,,,Doctor Ricardo Rojas
+,,,,Facundo
+,,,,Lago Blanco
+,,,,Río Mayo
+,,,,Buen Pasto
+,,,,Sarmiento
+,,,,José de San Martín
+,,,,Río Pico
+,,,,Gan Gan
+,,,,Telsen
+,,,,Amboy
+,,,,Cañada del Sauce
+,,,,Capilla Vieja
+,,,,El Corcovado - El Torreón
+,,,,Embalse
+,,,,La Cruz
+,,,,La Cumbrecita
+,,,,Las Bajadas
+,,,,Las Caleras
+,,,,Los Cóndores
+,,,,Los Molinos
+,,,,Los Reartes
+,,,,Parque Calmayo
+,,,,Río de los Sauces
+,,,,San Agustín
+,,,,San Ignacio (Loteo San Javier)
+,,,,Santa Rosa de Calamuchita
+,,,,Segunda Usina
+,,,,Villa Alpina
+,,,,Villa Amancay
+,,,,Villa Berna
+,,,,Villa Ciudad Parque Los Reartes
+,,,,Villa Ciudad Parque Los Reartes (1a. Sección)
+,,,,Villa Ciudad Parque Los Reartes (3a. Sección)
+,,,,Villa del Dique
+,,,,Villa General Belgrano
+,,,,Villa Quillinzo
+,,,,Villa Rumipal
+,,,,Villa San Miguel
+,,,,Villa Yacanto
+,,,,Córdoba
+,,,,Agua de Oro
+,,,,Ascochinga
+,,,,Colonia Caroya
+,,,,Colonia Tirolesa
+,,,,Dumesnil
+,,,,El Manzano
+,,,,General Paz
+,,,,Jesús María
+,,,,La Calera
+,,,,La Granja
+,,,,Los Molles
+,,,,Malvinas Argentinas
+,,,,Mendiolaza
+,,,,Mi Granja
+,,,,OTROS
+,,,,Pajas Blancas
+,,,,Río Ceballos
+,,,,Saldán
+,,,,Salsipuedes
+,,,,Unquillo
+,,,,Villa Allende
+,,,,Villa Cerro Azul
+,,,,Villa El Fachinal - Parque Norte - Guiñazú Norte
+,,,,Villa Los Llanos - Juárez Celman
+,,,,Alto de los Quebrachos
+,,,,Bañado de Soto
+,,,,Cruz de Caña
+,,,,Cruz del Eje
+,,,,El Brete
+,,,,Guanaco Muerto
+,,,,La Banda
+,,,,La Batea
+,,,,La Higuera
+,,,,Las Playas
+,,,,Los Chañaritos
+,,,,Media Naranja
+,,,,Paso Viejo
+,,,,San Marcos Sierra
+,,,,Serrezuela
+,,,,Tuclame
+,,,,Villa de Soto
+,,,,Del Campillo
+,,,,Hipólito Bouchard
+,,,,Huinca Renancó
+,,,,ITALÓ
+,,,,PINCÉN
+,,,,Santa Magdalena (Est. Jovita)
+,,,,Villa Huidobro
+,,,,Villa Valeria
+,,,,Arroyo Algodón
+,,,,Arroyo Cabral
+,,,,Ausonia
+,,,,Chazón
+,,,,Etruria
+,,,,La Laguna
+,,,,La Palestina
+,,,,La Playosa
+,,,,Pasco
+,,,,Silvio Pellico
+,,,,Ticino
+,,,,Tío Pujio
+,,,,Villa María
+,,,,Villa Nueva
+,,,,Chuña
+,,,,Copacabana
+,,,,Deán Funes
+,,,,Esquina del Alambre
+,,,,Los Chañaritos
+,,,,Olivares de San Nicolás
+,,,,Quilino
+,,,,Villa Quilino
+,,,,Alejandro Roca (Est. Alejandro)
+,,,,Bengolea
+,,,,Carnerillo
+,,,,Charras
+,,,,General Cabrera
+,,,,General Deheza
+,,,,Huanchillas
+,,,,La Carlota
+,,,,Los Cisnes
+,,,,Olaeta
+,,,,Santa Eufemia
+,,,,Ucacha
+,,,,Villa Reducción
+,,,,Alejo Ledesma
+,,,,Arias
+,,,,Camilo Aldao
+,,,,Capitán General Bernardo O'Higgins
+,,,,Cavanagh
+,,,,Colonia Italiana
+,,,,Corral de Bustos
+,,,,Cruz Alta
+,,,,General Baldissera
+,,,,General Roca
+,,,,Guatimozín
+,,,,Inriville
+,,,,Isla Verde
+,,,,Leones
+,,,,Los Surgentes
+,,,,Marcos Juárez
+,,,,Monte Buey
+,,,,Saira
+,,,,Villa Elisa
+,,,,Ciénaga del Coro
+,,,,El Chacho
+,,,,Estancia de Guadalupe
+,,,,La Playa
+,,,,San Carlos Minas
+,,,,Tosno
+,,,,OTROS
+,,,,Chancani
+,,,,Las Palmas
+,,,,Los Talares
+,,,,Salsacate
+,,,,San Gerónimo
+,,,,Tala Cañada
+,,,,Taninga
+,,,,Villa de Pocho
+,,,,General Levalle
+,,,,La Cesira
+,,,,Laboulaye
+,,,,Leguizamón
+,,,,Melo
+,,,,Río Bamba
+,,,,Rosales
+,,,,Serrano
+,,,,Bialet Massé
+,,,,Cabalango
+,,,,Capilla del Monte
+,,,,Casa Grande
+,,,,Charbonier
+,,,,Cosquín
+,,,,Cuesta Blanca
+,,,,Estancia Vieja
+,,,,Huerta Grande
+,,,,La Cumbre
+,,,,La Falda
+,,,,Las Jarillas
+,,,,Los Cocos
+,,,,Mayu Sumaj
+,,,,San Antonio de Arredondo
+,,,,San Esteban
+,,,,San Roque
+,,,,Santa María de Punilla
+,,,,Tala Huasi
+,,,,Tanti
+,,,,Valle Hermoso
+,,,,Villa Carlos Paz
+,,,,Villa Giardino
+,,,,Villa Parque Siquimán
+,,,,Villa Río Icho Cruz
+,,,,Villa Santa Cruz del Lago
+,,,,Achiras
+,,,,Adelia María
+,,,,Alcira (Est. Gigena)
+,,,,ALPA CORRAL
+,,,,Berrotarán
+,,,,Bulnes
+,,,,Chaján
+,,,,Chucul
+,,,,Coronel Baigorria
+,,,,Coronel Moldes
+,,,,Elena
+,,,,La Carolina
+,,,,Las Acequias
+,,,,LAS ALBAHACAS
+,,,,Las Higueras
+,,,,Las Peñas
+,,,,Las Vertientes
+,,,,OTROS
+,,,,Río Cuarto
+,,,,Sampacho
+,,,,San Basilio
+,,,,Santa Catalina (Est. Holmberg)
+,,,,Vicuña Mackenna
+,,,,VILLA EL CHACAY
+,,,,Washington
+,,,,Cañada de Machado
+,,,,Diego de Rojas
+,,,,Esquina
+,,,,La Para
+,,,,La Puerta
+,,,,La Quinta
+,,,,Montecristo
+,,,,OTROS
+,,,,Piquillín
+,,,,Río Primero
+,,,,Santa Rosa de Río Primero
+,,,,Villa Fontana
+,,,,Cerro Colorado
+,,,,Rayo Cortado
+,,,,Sebastián Elcano
+,,,,Villa de María
+,,,,Calchín
+,,,,Capilla del Carmen
+,,,,Carrilobo
+,,,,Colazo
+,,,,Costasacate
+,,,,Laguna Larga
+,,,,Las Junturas
+,,,,Los Chañaritos
+,,,,Luque
+,,,,Manfredi
+,,,,Oncativo
+,,,,Pilar
+,,,,Pozo del Molle
+,,,,Rincón
+,,,,Río Segundo
+,,,,Santiago Temple
+,,,,Villa del Rosario
+,,,,Arroyo Los Patos
+,,,,El Huayco
+,,,,La Cortadera
+,,,,Las Calles
+,,,,Las Rabonas
+,,,,Mina Clavero
+,,,,Nono
+,,,,San Huberto
+,,,,San Lorenzo
+,,,,San Pedro
+,,,,San Vicente
+,,,,Sauce Arriba
+,,,,Villa Cura Brochero
+,,,,Villa Sarmiento
+,,,,Conlara
+,,,,Cruz Caña
+,,,,Dos Arroyos
+,,,,El Pantanillo
+,,,,La Paz
+,,,,La Población
+,,,,La Ramada
+,,,,La Travesía
+,,,,Las Chacras
+,,,,Las Tapias
+,,,,Loma Bola
+,,,,Los Cerrillos
+,,,,Los Hornillos
+,,,,Los Molles
+,,,,Los Romeros
+,,,,Luyaba
+,,,,Quebracho Ladeado
+,,,,Quebrada de los Pozos
+,,,,San Javier y Yacanto
+,,,,San José
+,,,,Villa de las Rosas
+,,,,Villa Dolores
+,,,,Villa La Viña
+,,,,Alicia
+,,,,Altos de Chipión
+,,,,Arroyito
+,,,,Brinkmann
+,,,,Colonia Anita
+,,,,Colonia Las Pichanas
+,,,,Colonia Marina
+,,,,Colonia San Bartolomé
+,,,,Colonia Vignaud
+,,,,Devoto
+,,,,El Arañado
+,,,,El Fortín
+,,,,El Fuertecito
+,,,,El Tío
+,,,,Estación Luxardo
+,,,,Freyre
+,,,,La Francia
+,,,,La Paquita
+,,,,La Tordilla
+,,,,Las Varas
+,,,,Las Varillas
+,,,,Marull
+,,,,Miramar
+,,,,Morteros
+,,,,Plaza Luxardo
+,,,,Plaza San Francisco
+,,,,Porteña
+,,,,Quebracho Herrado
+,,,,Sacanta
+,,,,San Francisco
+,,,,Saturnino María Laspiur
+,,,,Seeber
+,,,,Toro Pujio
+,,,,Transito
+,,,,Tránsito
+,,,,Villa Concepción del Tío
+,,,,Villa del Tránsito
+,,,,Villa San Esteban
+,,,,Alta Gracia
+,,,,Anisacate
+,,,,Despeñaderos
+,,,,José de la Quintana
+,,,,La Carbonada
+,,,,La Cumbrecita
+,,,,La Donosa
+,,,,La Paisanita
+,,,,Malagueño
+,,,,Monte Ralo
+,,,,Potrero de Garay
+,,,,San Nicolás
+,,,,Toledo
+,,,,Valle de Anisacate
+,,,,Villa Ciudad de América (Loteo Diego de Rojas)
+,,,,Villa del Prado
+,,,,Villa La Bolsa
+,,,,Villa Los Aromos
+,,,,Villa Parque Santa Ana
+,,,,Villa San Isidro - José de la Quintana
+,,,,Caminiaga
+,,,,San Francisco del Chañar
+,,,,Almafuerte
+,,,,Colonia Almada
+,,,,Corralito
+,,,,Dalmacio Vélez
+,,,,General Fotheringham
+,,,,Hernando
+,,,,James Craik
+,,,,Las Isletillas
+,,,,Las Perdices
+,,,,Oliva
+,,,,Pampayasta Norte
+,,,,Pampayasta Sur
+,,,,Punta del Agua
+,,,,Río Tercero
+,,,,Tancacha
+,,,,Villa Ascasubi
+,,,,Las Peñas
+,,,,Sarmiento
+,,,,Sinsacate
+,,,,Villa del Totoral
+,,,,Las Arrias
+,,,,Rosario del Saladillo
+,,,,San José de la Dormida
+,,,,San Pedro Norte
+,,,,Villa Tulumba
+,,,,Alto Alegre
+,,,,Ballesteros
+,,,,Ballesteros Sur
+,,,,Bell Ville
+,,,,Benjamín Gould
+,,,,Canals
+,,,,Chilibroste
+,,,,Cintra
+,,,,Colonia Bismarck
+,,,,Idiazabal
+,,,,Justiniano Posse
+,,,,Laborde
+,,,,Monte Maíz
+,,,,Morrison
+,,,,Noetinger
+,,,,Ordóñez
+,,,,Pascanas
+,,,,Pueblo Italiano
+,,,,Ramón J. Cárcano
+,,,,San Antonio de Litín
+,,,,San Marcos
+,,,,Viamonte
+,,,,Wenceslao Escalante
+,,,,Bella Vista
+,,,,Berón de Astrada
+,,,,Corrientes
+,,,,Laguna Brava
+,,,,Riachuelo
+,,,,San Cayetano
+,,,,Concepción
+,,,,Santa Rosa
+,,,,Tabay
+,,,,Tatacua
+,,,,Cazadores Correntinos
+,,,,Curuzú Cuatiá
+,,,,Perugorría
+,,,,El Sombrero
+,,,,Empedrado
+,,,,Esquina
+,,,,Pueblo Libertador
+,,,,Alvear
+,,,,Itá Ibaté
+,,,,Lomas de Vallejos
+,,,,Nuestra Señora del Rosario de Caá Catí
+,,,,Palmar Grande
+,,,,Colonia Carolina
+,,,,Goya
+,,,,Itatí
+,,,,Ramada Paso
+,,,,Colonia Liebig's
+,,,,Ituzaingó
+,,,,Villa Olivari
+,,,,Gobernador Juan E. Martínez
+,,,,Lavalle
+,,,,Santa Lucía
+,,,,Mburucuyá
+,,,,Felipe Yofré
+,,,,Mariano I. Loza  (Est. Justino Solari)
+,,,,Mercedes
+,,,,Colonia Libertad
+,,,,Estación Libertad
+,,,,Juan Pujol
+,,,,Mocoretá
+,,,,Monte Caseros
+,,,,Parada Acuña
+,,,,Parada Labougle
+,,,,OTROS
+,,,,Bonpland
+,,,,Parada Pucheta
+,,,,Paso de los Libres
+,,,,Saladas
+,,,,San Lorenzo
+,,,,Paso de la Patria
+,,,,San Cosme
+,,,,Santa Ana
+,,,,San Luis del Palmar
+,,,,La Cruz
+,,,,Loreto
+,,,,San Miguel
+,,,,Chavarría
+,,,,Pedro R. Fernández (Est. Manuel F. Mantilla)
+,,,,San Roque
+,,,,Gobernador Igr. Valentín Virasoro
+,,,,José Rafael Gómez
+,,,,Santo Tomé
+,,,,Sauce
+,,,,Arroyo Barú
+,,,,Colón
+,,,,Colonia Hugues
+,,,,El Brillante
+,,,,Hambis
+,,,,Hocker
+,,,,La Clarita
+,,,,Pueblo Liebig's
+,,,,San José
+,,,,Ubajay
+,,,,Villa  Elisa
+,,,,Calabacilla
+,,,,Clodomiro Ledesma
+,,,,Colonia Ayuí
+,,,,Concordia
+,,,,Estación Yeruá
+,,,,Estación Yuquerí
+,,,,Estancia Grande
+,,,,La Criolla
+,,,,Los Charrúas
+,,,,Nueva Escocia
+,,,,Osvaldo Magnasco
+,,,,Puerto Yeruá
+,,,,Aldea Brasilera
+,,,,Aldea Protestante
+,,,,Aldea Spatzenkutter
+,,,,Aldea Valle María
+,,,,Colonia Ensayo
+,,,,Diamante
+,,,,Estación Camps
+,,,,General Alvear
+,,,,General Racedo
+,,,,General Ramírez
+,,,,OTROS
+,,,,Strobel
+,,,,Villa Libertador San Martín
+,,,,Chajarí
+,,,,Colonia Alemana
+,,,,Colonia Ensanche Sauce
+,,,,Colonia La Argentina
+,,,,Colonia Peña
+,,,,Colonia Santa María
+,,,,Federación
+,,,,Los Conquistadores
+,,,,San Jaime de la Frontera
+,,,,San Pedro
+,,,,San Ramón
+,,,,Santa Ana
+,,,,Villa del Rosario
+,,,,Conscripto Bernardi
+,,,,El Cimarrón
+,,,,Federal
+,,,,Nueva Vizcaya
+,,,,Sauce de Luna
+,,,,San José de Feliciano
+,,,,San Víctor
+,,,,General Galarza
+,,,,Gualeguay
+,,,,Aldea San Antonio
+,,,,Aldea San Juan
+,,,,Enrique Carbó
+,,,,Faustino M. Parera
+,,,,Gilbert
+,,,,Gualeguaychú
+,,,,Larroque
+,,,,Pueblo General Belgrano
+,,,,Urdinarrain
+,,,,Ceibas
+,,,,Ibicuy
+,,,,Médanos
+,,,,OTROS
+,,,,Villa Paranacito
+,,,,Bovril
+,,,,Colonia Avigdor
+,,,,El Solar
+,,,,La Paz
+,,,,Piedras Blancas
+,,,,Pueblo Arrúa (Est. Alcaraz)
+,,,,San Gustavo
+,,,,Santa Elena
+,,,,Aranguren
+,,,,Betbeder
+,,,,Don Cristóbal
+,,,,Febré
+,,,,Hernández
+,,,,Lucas González
+,,,,Nogoyá
+,,,,OTROS
+,,,,XX de Setiembre
+,,,,OTROS
+,,,,Aldea María Luisa
+,,,,Aldea San Rafael
+,,,,Cerrito
+,,,,Colonia Avellaneda
+,,,,Crespo
+,,,,Crucesitas Séptima Sección
+,,,,El Palenque
+,,,,El Pingo
+,,,,El Ramblón
+,,,,Hasenkamp
+,,,,Hernandarias
+,,,,La Picada
+,,,,Las Tunas
+,,,,María Grande
+,,,,Oro Verde
+,,,,OTROS
+,,,,Paraná
+,,,,Pueblo Brugo
+,,,,San Benito
+,,,,Sauce Montrull
+,,,,Seguí
+,,,,Tabossi
+,,,,Viale
+,,,,Villa Urquiza
+,,,,General Campos
+,,,,San Salvador
+,,,,Durazno
+,,,,Gobernador Echagüe
+,,,,Gobernador Mansilla
+,,,,Gobernador Solá
+,,,,Maciá
+,,,,Rosario del Tala
+,,,,1º de Mayo
+,,,,Basavilbaso
+,,,,Caseros
+,,,,Colonia Elía
+,,,,Concepción del Uruguay
+,,,,Estancia San Pedro
+,,,,Herrera
+,,,,Las Moscas
+,,,,Líbaros
+,,,,Pronunciamiento
+,,,,Rocamora
+,,,,Santa Anita
+,,,,Villa Mantero
+,,,,Villa San Justo
+,,,,Villa San Marcial (Est. Gobernador Urquiza)
+,,,,Molino Doll
+,,,,Rincón de Nogoyá
+,,,,Victoria
+,,,,Estación Raíces
+,,,,Ingeniero Miguel Sajaroff
+,,,,Jubileo
+,,,,Paso de la Laguna
+,,,,Villa Clara
+,,,,Villa Domínguez
+,,,,Villaguay
+,,,,Fortín Soledad
+,,,,Guadalcazar
+,,,,La Rinconada
+,,,,Laguna Yema
+,,,,Lamadrid
+,,,,Los Chiriguanos
+,,,,Pozo de Maza
+,,,,Pozo del Mortero
+,,,,Vaca Perdida
+,,,,Colonia Pastoril
+,,,,Formosa
+,,,,Gran Guardia
+,,,,Mariano Boedo
+,,,,Mojón de Fierro
+,,,,San Hilario
+,,,,Villa del Carmen
+,,,,Banco Payaguá
+,,,,General Lucio Victorio Mansilla
+,,,,Herradura
+,,,,OTROS
+,,,,San Francisco de Laishi
+,,,,Tatané
+,,,,Villa Escolar
+,,,,Ingeniero Guillermo N. Juárez
+,,,,OTROS
+,,,,Bartolomé de las Casas
+,,,,Comandante Fontana
+,,,,Estanislao del Campo
+,,,,Fortín Cabo 1º Lugones
+,,,,Fortín Sargento 1º Leyes
+,,,,Ibarreta
+,,,,Juan G. Bazán
+,,,,Las Lomitas
+,,,,Posta Cambio Zalazar
+,,,,Pozo del Tigre
+,,,,San Martín I
+,,,,San Martín II
+,,,,Subteniente Perín
+,,,,Villa General Güemes
+,,,,Villa General Manuel Belgrano
+,,,,Buena Vista
+,,,,El Espinillo
+,,,,Laguna Gallo
+,,,,Misión Tacaagle
+,,,,Portón Negro
+,,,,Tres Lagunas
+,,,,Clorinda
+,,,,Laguna Blanca
+,,,,Laguna Naick-Neck
+,,,,Palma Sola
+,,,,Puerto Pilcomayo
+,,,,Riacho He-He
+,,,,Riacho Negro
+,,,,Siete Palmas
+,,,,Colonia Campo Villafañe
+,,,,El Colorado
+,,,,OTROS
+,,,,Palo Santo
+,,,,Pirané
+,,,,Villa Kilómetro 213
+,,,,El Potrillo
+,,,,El Quebracho
+,,,,General Mosconi
+,,,,OTROS
+,,,,Abra Pampa
+,,,,La Redonda
+,,,,Puesto del Marquéz
+,,,,Dr. Manuel Belgrano
+,,,,Guerrero
+,,,,León
+,,,,Lozano (Ap. Chañi)
+,,,,San Salvador de Jujuy (Est. Jujuy)
+,,,,Yala
+,,,,Aguas Calientes
+,,,,El Carmen
+,,,,Manantiales
+,,,,Monterrico
+,,,,Pampa Blanca
+,,,,Perico
+,,,,Puesto Viejo
+,,,,El Aguilar
+,,,,Hipólito Yrigoyen (Est. Iturbe)
+,,,,Humahuaca
+,,,,Tres Cruces
+,,,,Uquía (Est. Senador Pérez)
+,,,,Caimancito
+,,,,Calilegua
+,,,,Chalicán
+,,,,Fraile Pintado
+,,,,Libertador General San Martín (Est. Ledesma)
+,,,,Yuto
+,,,,OTROS
+,,,,Carahunco
+,,,,Centro Forestal
+,,,,Palpalá (Est. Gral. Manuel N. Savio)
+,,,,Coyaguaima
+,,,,Lagunillas de Farallón
+,,,,Liviara
+,,,,Loma Blanca
+,,,,Nuevo Pirquitas
+,,,,Orosmayo
+,,,,Rinconada
+,,,,El Ceibal
+,,,,Los Alisos
+,,,,San Antonio
+,,,,Don Emilio
+,,,,La Esperanza
+,,,,La Mendieta
+,,,,Rosario de Río Grande
+,,,,San Lucas
+,,,,San Pedro (Est. San Pedro de Jujuy)
+,,,,El Fuerte
+,,,,El Piquete
+,,,,El Talar
+,,,,OTROS
+,,,,Palma Sola
+,,,,Santa Clara
+,,,,Vinalito
+,,,,Casira
+,,,,Ciénega
+,,,,Cieneguillas
+,,,,Cusi Cusi
+,,,,Misarrumi
+,,,,Oratorio
+,,,,Paicone
+,,,,Santa Catalina
+,,,,Catua
+,,,,Coranzuli
+,,,,El Toro
+,,,,Huáncar
+,,,,Jama
+,,,,Mina Providencia
+,,,,Olacapato
+,,,,Olaroz Chico
+,,,,Pastos Chicos
+,,,,Puesto Sey
+,,,,San Juan de Quillaqués
+,,,,Susques
+,,,,Huacalera
+,,,,Maimará
+,,,,Tilcara
+,,,,Bárcena
+,,,,El Moreno
+,,,,Purmamarca
+,,,,Tumbaya
+,,,,Volcán
+,,,,Santa Ana
+,,,,Barrios
+,,,,Cangrejillos
+,,,,La Intermedia
+,,,,La Quiaca
+,,,,Pumahuasi
+,,,,Yavi
+,,,,Yavi Chico
+,,,,Doblas
+,,,,Macachín
+,,,,Miguel Riglos
+,,,,Rolón
+,,,,Tomas M. Anchorena
+,,,,Anzoategui
+,,,,La Adela
+,,,,Anguil
+,,,,Santa Rosa
+,,,,Catriló
+,,,,La Gloria
+,,,,Lonquimay
+,,,,Uriburu
+,,,,Santa Isabel
+,,,,Bernardo Larroude
+,,,,Ceballos
+,,,,Coronel Hilario Lagos (Est. Aguas Buenas)
+,,,,Intendente Alvear
+,,,,Sarah
+,,,,Vértiz
+,,,,La Humada
+,,,,Conhelo
+,,,,Eduardo Castex
+,,,,Mauricio Mayer
+,,,,Monte Nievas
+,,,,Rucanelo
+,,,,Winifreda
+,,,,Gobernador Duval
+,,,,Puelches
+,,,,Alpachiri
+,,,,General Manuel J. Campos
+,,,,Guatraché
+,,,,Perú
+,,,,Santa Teresa
+,,,,Abramo
+,,,,Bernasconi
+,,,,General San Martín (Est. Villa Alba)
+,,,,Jacinto Arauz
+,,,,Cuchillo Co
+,,,,La Reforma
+,,,,Limay Mahuida
+,,,,Carro Quemado
+,,,,Loventué
+,,,,Luan Toro
+,,,,Telén
+,,,,Victorica
+,,,,Agustoni
+,,,,Dorila
+,,,,General Pico
+,,,,Speluzzi
+,,,,OTROS
+,,,,25 de Mayo
+,,,,Casa De Piedra
+,,,,Puelén
+,,,,Colonia Barón
+,,,,Miguel Cané
+,,,,Quemú Quemú
+,,,,Relmo
+,,,,Villa Mirasol
+,,,,Caleufú
+,,,,La Maruja
+,,,,Parera
+,,,,Quetrequén
+,,,,Rancul
+,,,,Adolfo Van Praet
+,,,,Alta Italia
+,,,,Damián Maisonave (Est. Simson)
+,,,,Embajador Martini
+,,,,Falucho
+,,,,Ingeniero Luiggi
+,,,,Ojeda
+,,,,Realicó
+,,,,Toay
+,,,,Arata
+,,,,Metileo
+,,,,Trenel
+,,,,Ataliva Roca
+,,,,Chacharramendi
+,,,,Colonia Santa María
+,,,,General Acha
+,,,,Quehué
+,,,,Unanué
+,,,,Aimogasta
+,,,,Estación Mazán
+,,,,Villa Mazán
+,,,,La Rioja
+,,,,Aminga
+,,,,Anillaco
+,,,,Anjullón
+,,,,Chuquis
+,,,,Los Molinos
+,,,,Pinchas
+,,,,San Pedro
+,,,,Santa Vera Cruz
+,,,,Chamical
+,,,,Chilecito
+,,,,Colonia Anguinán
+,,,,Colonia Vichigasta
+,,,,La Puntilla
+,,,,Los Sarmientos
+,,,,Malligasta
+,,,,Nonogasta
+,,,,San Miguel
+,,,,San Nicolás
+,,,,Santa Florentina
+,,,,Sañogasta
+,,,,Tilimuqui
+,,,,Vichigasta
+,,,,Aicuña
+,,,,Guandacol
+,,,,Los Palacios
+,,,,Pagancillo
+,,,,Santa Clara
+,,,,Villa Unión
+,,,,Angulos
+,,,,Campanas
+,,,,Chañarmuyo
+,,,,Famatina
+,,,,La Cuadra
+,,,,Pituil
+,,,,Santa Cruz
+,,,,Punta de los Llanos
+,,,,Tama
+,,,,Chañar
+,,,,Loma Blanca
+,,,,Olta
+,,,,Malanzán
+,,,,Nácate
+,,,,Portezuelo
+,,,,San Antonio
+,,,,Villa Castelli
+,,,,Ambil
+,,,,Milagro
+,,,,Santa Rita de Catuna
+,,,,Ulapes
+,,,,Amaná
+,,,,OTROS
+,,,,Patquía
+,,,,OTROS
+,,,,Chepes
+,,,,Desiderio Tello
+,,,,Alpasinche
+,,,,Andolucas
+,,,,Chaupihuasi
+,,,,Cuipan
+,,,,Las Talas
+,,,,Los Robles
+,,,,Salicas - San Blas
+,,,,San Blas
+,,,,Shaqui
+,,,,Villa Sanagasta
+,,,,Villa San José de Vinchina
+,,,,Mendoza
+,,,,Bowen
+,,,,Carmensa
+,,,,General Alvear
+,,,,Gobernador Benegas
+,,,,Godoy Cruz
+,,,,Las Tortugas
+,,,,San Francisco Del Monte
+,,,,Villa Hipodromo
+,,,,Bermejo
+,,,,Buena Nueva
+,,,,Capilla Del Rosario
+,,,,Colonia Segovia
+,,,,Dorrego
+,,,,El Sauce
+,,,,Guaymallén
+,,,,Jesus Nazareno
+,,,,La Primavera
+,,,,Las Cañas
+,,,,Los Corralitos
+,,,,OTROS
+,,,,Pedro Molina
+,,,,Puente de Hierro
+,,,,Rodeo De La Cruz
+,,,,San Francisco Del Monte
+,,,,San Jose
+,,,,Ingeniero Giagnoni
+,,,,Junín
+,,,,La Colonia
+,,,,Los Barriales
+,,,,Medrano
+,,,,OTROS
+,,,,Phillips
+,,,,Rodríguez Peña
+,,,,La Paz
+,,,,El Algarrobal
+,,,,El Challao
+,,,,El Plumerillo
+,,,,El Resguardo
+,,,,El Zapallar
+,,,,Las Heras
+,,,,Panquehua
+,,,,Papagayos
+,,,,Puente del Inca
+,,,,Uspallata
+,,,,3 de Mayo
+,,,,Barrio Los Olivos
+,,,,Costa de Araujo
+,,,,El Vergel
+,,,,Ingeniero Gustavo André
+,,,,Jocolí
+,,,,Jocolí Viejo
+,,,,Villa Tulumaya
+,,,,Agrelo
+,,,,Barrio Perdriel IV
+,,,,Cacheuta
+,,,,Carrodilla
+,,,,Chacras De Coria
+,,,,Costa Flores
+,,,,El Carrizal
+,,,,El Salto
+,,,,La Puntilla
+,,,,Las Compuertas
+,,,,Las Vegas
+,,,,Luján de Cuyo
+,,,,Mayor Drummond
+,,,,Perdriel
+,,,,Potrerillos
+,,,,Ugarteche
+,,,,Vistalba
+,,,,Barrancas
+,,,,Barrio Jesús de Nazaret
+,,,,Coquimbito
+,,,,Cruz de Piedra
+,,,,El Pedregal
+,,,,Fray Luis Beltrán
+,,,,General Gutierrez
+,,,,Luzuriaga
+,,,,Maipú
+,,,,Rodeo del Medio
+,,,,Russell
+,,,,San Roque
+,,,,Villa Teresa
+,,,,Las Leñas
+,,,,Malargüe
+,,,,OTROS
+,,,,Andrade
+,,,,Barrio Cooperativa Los Campamentos
+,,,,Barrio Rivadavia
+,,,,El Mirador
+,,,,La Central
+,,,,La Esperanza
+,,,,La Florida
+,,,,La Libertad
+,,,,Los Árboles
+,,,,Los Campamentos
+,,,,Medrano
+,,,,Mundo Nuevo
+,,,,Reducción de Abajo
+,,,,Rivadavia
+,,,,Santa María de Oro
+,,,,Barrio El Cepillo
+,,,,Chilecito
+,,,,Eugenio Bustos
+,,,,La Consulta
+,,,,Pareditas
+,,,,San Carlos
+,,,,Alto Salvador
+,,,,Alto Verde
+,,,,Chapanay
+,,,,El Espino
+,,,,El Ramblón
+,,,,Montecaseros
+,,,,Nueva California
+,,,,OTROS
+,,,,Palmira
+,,,,San Martín
+,,,,Tres Porteñas
+,,,,25 de Mayo
+,,,,Capitán Montoya
+,,,,Cuadro Benegas
+,,,,El Nihuil
+,,,,Goudge
+,,,,Jaime Prats
+,,,,Las Malvinas
+,,,,Monte Comán
+,,,,Punta del Agua
+,,,,Rama Caída
+,,,,Real del Padre
+,,,,Salto de Las Rosas
+,,,,San Rafael
+,,,,Villa Atuel
+,,,,Villa Atuel Norte
+,,,,Barrio 12 de Octubre
+,,,,La Dormida
+,,,,Las Catitas
+,,,,Santa Rosa
+,,,,Campo Los Andes
+,,,,Colonia Las Rosas
+,,,,Los Sauces
+,,,,Tunuyán
+,,,,Vista Flores
+,,,,Cordón del Plata
+,,,,La Arboleda
+,,,,San José
+,,,,Tupungato
+,,,,25 de Mayo
+,,,,Alba Posse
+,,,,Alicia Baja
+,,,,Colonia Alicia
+,,,,Colonia Aurora
+,,,,San Francisco de Asís
+,,,,Santa Rita
+,,,,Apóstoles
+,,,,Azara
+,,,,San José
+,,,,Aristóbulo del Valle
+,,,,Campo Grande
+,,,,Dos de Mayo Núcleo I
+,,,,Dos de Mayo Núcleo III
+,,,,OTROS
+,,,,Pueblo Illia
+,,,,Salto Encantado
+,,,,Barrio Del Lago
+,,,,Bonpland
+,,,,Candelaria
+,,,,Mártires
+,,,,Profundidad
+,,,,Santa Ana
+,,,,Garupá
+,,,,Nemesio Parma
+,,,,Posadas
+,,,,Concepción de la Sierra
+,,,,La Corita
+,,,,Colonia Victoria
+,,,,Eldorado
+,,,,Puerto Mado
+,,,,Santiago De Liniers
+,,,,Bernardo de Irigoyen
+,,,,Dos Hermanas
+,,,,El Soberbio
+,,,,Fracrán
+,,,,San Vicente
+,,,,Esperanza
+,,,,Libertad
+,,,,Puerto Iguazú
+,,,,Wanda
+,,,,Almafuerte
+,,,,Arroyo del Medio
+,,,,Caá - Yarí
+,,,,Cerro Azul
+,,,,Dos Arroyos
+,,,,Gobernador López
+,,,,Leandro N. Alem
+,,,,Olegario V. Andrade
+,,,,Villa Libertad (Municipio Leandro N. Alem)
+,,,,Capioví
+,,,,El Alcázar
+,,,,Garuhapé
+,,,,Puerto Leoni
+,,,,Puerto Rico
+,,,,Ruiz de Montoya
+,,,,San Miguel
+,,,,Caraguatay
+,,,,Montecarlo
+,,,,Puerto Piray
+,,,,Taruma
+,,,,Alberdi
+,,,,Campo Ramón
+,,,,Campo Viera
+,,,,General Alvear
+,,,,Guaraní
+,,,,Los Helechos
+,,,,Oberá
+,,,,Panambí
+,,,,Panambi Kilómetro 15
+,,,,Panambí Kilómetro 8
+,,,,San Martín
+,,,,Villa Bonita
+,,,,OTROS
+,,,,Colonia Polana
+,,,,Corpus
+,,,,General Urquiza
+,,,,Gobernador Roca
+,,,,Helvecia
+,,,,Hipólito Yrigoyen
+,,,,Jardín América
+,,,,Oasis
+,,,,Roca Chica
+,,,,San Ignacio
+,,,,Santo Pipó
+,,,,Florentino Ameghino
+,,,,Itacaruaré
+,,,,Mojón Grande
+,,,,San Javier
+,,,,Cruce Caballero
+,,,,OTROS
+,,,,Paraíso
+,,,,Piñalito Sur
+,,,,San Pedro
+,,,,Tobuna
+,,,,Aluminé
+,,,,Moquehue
+,,,,Villa Pehuenia
+,,,,Añelo
+,,,,San Patricio del Chañar
+,,,,Las Coloradas
+,,,,Chos Malal
+,,,,Tricao Malal
+,,,,Piedra del Águila
+,,,,Santo Tomás
+,,,,11 de Octubre
+,,,,Arroyito
+,,,,Barrio Ruca Luhé
+,,,,Centenario
+,,,,Cutral Có
+,,,,El Chocón
+,,,,Mari Menuco
+,,,,Neuquén
+,,,,OTROS
+,,,,Plaza Huincul
+,,,,Plottier
+,,,,Senillosa
+,,,,Villa El Chocón
+,,,,Vista Alegre Norte
+,,,,Vista Alegre Sur
+,,,,Junín de los Andes
+,,,,San Martín de los Andes
+,,,,Villa Lago Meliquina
+,,,,Chorriaca
+,,,,Loncopué
+,,,,Villa La Angostura
+,,,,Villa Traful
+,,,,Andacollo
+,,,,Huinganco
+,,,,Las Ovejas
+,,,,Manzano Amargo
+,,,,Varvarco
+,,,,Villa Del Nahueve
+,,,,Caviahué
+,,,,Copahue
+,,,,El Cholar
+,,,,El Huecú
+,,,,Taquimilán
+,,,,Barrancas
+,,,,Buta Ranquil
+,,,,Rincón de los Sauces
+,,,,Picún Leufú
+,,,,Bajada del Agrio
+,,,,La Buitrera
+,,,,Las Lajas
+,,,,Los Catutos
+,,,,Mariano Moreno
+,,,,Zapala
+,,,,Aguada de Guerra
+,,,,Clemente Onelli
+,,,,Colan Conhue
+,,,,El Caín
+,,,,Ingeniero Jacobacci
+,,,,Los Menucos
+,,,,Maquinchao
+,,,,Pilquiniyeu
+,,,,Comicó
+,,,,Cona Niyeu
+,,,,Ministro Ramos Mexía
+,,,,Prahuaniyeu
+,,,,Sierra Colorada
+,,,,Treneta
+,,,,Yaminué
+,,,,El Cóndor
+,,,,Guardia Mitre
+,,,,San Javier
+,,,,Viedma
+,,,,Chimpay
+,,,,Choele Choel
+,,,,Coronel Belisle
+,,,,Darwin
+,,,,Lamarque
+,,,,Luis Beltrán
+,,,,Pomona
+,,,,El Bolsón
+,,,,El Foyel
+,,,,Rio Villegas
+,,,,San Carlos de Bariloche
+,,,,Villa Catedral
+,,,,Villa Llao Llao
+,,,,Villa Los Coihues
+,,,,Villa Mascardi
+,,,,General Conesa
+,,,,OTROS
+,,,,Aguada Guzmán
+,,,,Cerro Policía
+,,,,El Cuy
+,,,,Las Perlas
+,,,,Mencué
+,,,,Naupa Huen
+,,,,Valle Azul
+,,,,Allen
+,,,,Barda del Medio
+,,,,Barrio Destacamento
+,,,,Barrio El Labrador
+,,,,Barrio Guerrico
+,,,,Catriel
+,,,,Cervantes
+,,,,Chichinales
+,,,,Cinco Saltos
+,,,,Cipolletti
+,,,,Contralmirante Cordero
+,,,,Ferri
+,,,,General Enrique Godoy
+,,,,General Fernández Oro
+,,,,General Roca
+,,,,Ingeniero Luis A. Huergo
+,,,,Mainqué
+,,,,Peñas Blancas
+,,,,Sargento Vidal
+,,,,Villa Alberdi
+,,,,Villa Manzano
+,,,,Villa Regina
+,,,,Villa San Isidro
+,,,,Mamuel Choique
+,,,,Ñorquincó
+,,,,Río Chico (Est. Cerro Mesa)
+,,,,OTROS
+,,,,Barrio Esperanza
+,,,,Colonia Juliá y Echarren
+,,,,Juventud Unida
+,,,,Pichi Mahuida
+,,,,Río Colorado
+,,,,Salto Andersen
+,,,,Comallo
+,,,,Dina Huapi
+,,,,Laguna Blanca
+,,,,Paso Flores
+,,,,Pilcaniyeu
+,,,,Pilquiniyeu del Limay
+,,,,Villa Llanquín
+,,,,Las Grutas
+,,,,Playas Doradas
+,,,,Puerto San Antonio Este
+,,,,Punta Colorada
+,,,,Saco Viejo
+,,,,San Antonio Oeste
+,,,,Sierra Grande
+,,,,Aguada Cecilio
+,,,,Arroyo Los Berros
+,,,,Arroyo Ventana
+,,,,Nahuel Niyeu
+,,,,Sierra Pailemán
+,,,,Valcheta
+,,,,Apolinario Saravia
+,,,,Ceibalito
+,,,,Coronel Mollinedo
+,,,,Coronel Olleros
+,,,,El Quebrachal
+,,,,Gaona
+,,,,General Pizarro
+,,,,Joaquín V. González
+,,,,Las Lajitas
+,,,,Luis Burela
+,,,,Piquete Cabado
+,,,,Río del Valle
+,,,,Tolloche
+,,,,Cachi
+,,,,Payogasta
+,,,,Cafayate
+,,,,Tolombón
+,,,,Atocha
+,,,,El Tipal - La Almudena
+,,,,La Ciénaga y Barrio San Rafael
+,,,,Las Costas
+,,,,OTROS
+,,,,Salta
+,,,,Villa San Lorenzo
+,,,,Barrio El Congreso
+,,,,Barrio Las Tunas
+,,,,Barrio Los Pinares
+,,,,Cerrillos
+,,,,La Merced
+,,,,San Agustín
+,,,,Barrio Finca La Maroma
+,,,,Barrio La Rotonda
+,,,,Barrio Santa Teresita
+,,,,Chicoana
+,,,,El Carril
+,,,,Campo Santo
+,,,,Cobos
+,,,,El Bordo
+,,,,General Güemes
+,,,,Aguaray
+,,,,Campamento Vespucio
+,,,,Campichuelo
+,,,,Campo Durán
+,,,,Coronel Cornejo
+,,,,Dragones
+,,,,Embarcación
+,,,,General Ballivián
+,,,,General Mosconi
+,,,,Hickman
+,,,,Misión El Cruce - El Milagro - El Jardín de San Martín
+,,,,Misión Kilómetro 6
+,,,,Pacará
+,,,,Padre Lozano
+,,,,Piquirenda
+,,,,Profesor Salvador Mazza
+,,,,Tartagal
+,,,,Tobantirenda
+,,,,Yacuy
+,,,,Guachipas
+,,,,Iruya
+,,,,Isla de Cañas
+,,,,Pueblo Viejo
+,,,,La Caldera
+,,,,Vaqueros
+,,,,El Jardín
+,,,,El Tala
+,,,,La Candelaria
+,,,,La Poma
+,,,,Ampascachi
+,,,,Cabra Corral
+,,,,Coronel Moldes
+,,,,La Viña
+,,,,Talapampa
+,,,,Olacapato
+,,,,San Antonio de los Cobres
+,,,,Santa Rosa de los Pastos Grandes
+,,,,Tolar Grande
+,,,,El Galpón
+,,,,El Tunal
+,,,,Lumbreras
+,,,,Metán Viejo
+,,,,Río Piedras
+,,,,San José de Metán
+,,,,San José de Orquera
+,,,,Molinos
+,,,,Seclantás
+,,,,Aguas Blancas
+,,,,Colonia Santa Rosa
+,,,,El Tabacal
+,,,,Hipólito Yrigoyen
+,,,,Pichanal
+,,,,San Ramón de la Nueva Orán
+,,,,Urundel
+,,,,OTROS
+,,,,Alto de la Sierra
+,,,,Capitán Juan Pagé
+,,,,Coronel Juan Solá
+,,,,Los Blancos
+,,,,Pluma de Pato
+,,,,Rivadavia
+,,,,Santa María
+,,,,Santa Victoria Este
+,,,,Antilla
+,,,,Copo Quile
+,,,,El Naranjo
+,,,,El Potrero
+,,,,Rosario de la Frontera
+,,,,Campo Quijano
+,,,,La Merced Del Encón
+,,,,La Silleta
+,,,,Rosario de Lerma
+,,,,Angastaco
+,,,,Animaná
+,,,,El Barrial
+,,,,San Carlos
+,,,,Acoyte
+,,,,Campo La Cruz
+,,,,Los Toldos
+,,,,Nazareno
+,,,,Poscaya
+,,,,San Marcos
+,,,,Santa Victoria
+,,,,Tupelí
+,,,,Villa Borjas
+,,,,Villa Borjas - La Chimbera
+,,,,Villa Santa Rosa
+,,,,9 de Julio
+,,,,Alto de Sierra
+,,,,Colonia Fiorito
+,,,,Las Chacritas
+,,,,OTROS
+,,,,El Rincón
+,,,,OTROS
+,,,,Villa General San Martin
+,,,,Villa General San Martín - Campo Afuera
+,,,,OTROS
+,,,,Villa El Salvador - Villa Sefair
+,,,,Barreal
+,,,,Barreal - Villa Pituil
+,,,,Calingasta
+,,,,Tamberías
+,,,,San Juan
+,,,,Bermejo
+,,,,Caucete
+,,,,Vallecito
+,,,,Villa Independencia
+,,,,Chimbas
+,,,,Villa Paula Albarracin
+,,,,Angualasto
+,,,,Bella Vista
+,,,,Iglesia
+,,,,Las Flores
+,,,,Pismanta
+,,,,Rodeo
+,,,,Tudcum
+,,,,El Médano
+,,,,Gran China
+,,,,Huaco
+,,,,Mogna
+,,,,Niquivil
+,,,,Pampa Vieja
+,,,,San Isidro
+,,,,San José de Jáchal
+,,,,Tamberías
+,,,,Villa Malvinas Argentinas
+,,,,Villa Mercedes
+,,,,OTROS
+,,,,Barrio Ruta 40
+,,,,Carpintería
+,,,,Quinto Cuartel
+,,,,Villa Aberastain
+,,,,Villa Aberastain - La Rinconada
+,,,,Villa Barbosa - Villa Nacusi
+,,,,Villa Centenario
+,,,,El Medanito
+,,,,Rawson
+,,,,Villa Bolaños
+,,,,Villa Krause
+,,,,Rivadavia
+,,,,Barrio Sadop
+,,,,Dos Acequias (Est. Los Angacos)
+,,,,San Isidro (Est. Los Angacos)
+,,,,Villa Dominguito (Est. Puntilla Blanca)
+,,,,Villa Don Bosco (Est. Angaco Sud)
+,,,,Villa El Salvador
+,,,,Villa San Martín
+,,,,Alto de Sierra
+,,,,Santa Lucía
+,,,,Cañada Honda
+,,,,Cienaguita
+,,,,Divisadero
+,,,,Guanacache
+,,,,Las Lagunas
+,,,,Los Berros
+,,,,Pedernal
+,,,,Punta del Médano
+,,,,Villa Media Agua
+,,,,Villa Ibáñez
+,,,,Astica
+,,,,OTROS
+,,,,Villa San Agustín
+,,,,Villa Basilio Nievas
+,,,,Candelaria
+,,,,La Majada
+,,,,Leandro N. Alem
+,,,,Lomas Blancas
+,,,,Luján
+,,,,OTROS
+,,,,Pampa Grande
+,,,,Quines
+,,,,Río Juan Gómez
+,,,,San Francisco del Monte de Oro
+,,,,San Miguel
+,,,,La Calera
+,,,,Los Molles
+,,,,Nogolí
+,,,,San Pedro
+,,,,Villa de la Quebrada
+,,,,Villa General Roca
+,,,,Concarán
+,,,,Cortaderas
+,,,,El Algarrobal
+,,,,Naschel
+,,,,Papagayos
+,,,,Renca
+,,,,San Pablo
+,,,,Tilisarao
+,,,,Villa del Carmen
+,,,,Villa Larca
+,,,,Carolina
+,,,,El Durazno
+,,,,El Trapiche
+,,,,Fraga
+,,,,La Bajada
+,,,,La Florida
+,,,,La Toma
+,,,,OTROS
+,,,,Río Grande
+,,,,Saladillo
+,,,,Juan Jorba
+,,,,Juan Llerena
+,,,,Justo Daract
+,,,,La Angelina
+,,,,La Punilla
+,,,,Lavaisse
+,,,,San José del Morro
+,,,,Villa Mercedes
+,,,,Villa Salles
+,,,,Anchorena
+,,,,Arizona
+,,,,Bagual
+,,,,Batavia
+,,,,Buena Esperanza
+,,,,Fortín El Patria
+,,,,Fortuna
+,,,,La Maroma
+,,,,Los Overos
+,,,,Martín de Loyola
+,,,,Nahuel Mapá
+,,,,Navia
+,,,,Nueva Galia
+,,,,Unión
+,,,,Carpinteria
+,,,,Cerro de Oro
+,,,,Lafinur
+,,,,Los Cajones
+,,,,Los Molles
+,,,,Merlo
+,,,,Santa Rosa del Conlara
+,,,,Talita
+,,,,Alto Pelado
+,,,,Alto Pencoso
+,,,,Balde
+,,,,Beazley
+,,,,Cazador
+,,,,Chosmes
+,,,,Desaguadero
+,,,,El Volcán
+,,,,Jarilla
+,,,,Juana Koslay
+,,,,La Punta
+,,,,Las Barrancas
+,,,,Potrero de los Funes
+,,,,Salinas del Bebedero
+,,,,San Jerónimo
+,,,,San Luis
+,,,,Varela
+,,,,Zanjitas
+,,,,El Puesto
+,,,,La Ramada
+,,,,La Vertiente
+,,,,Las Aguadas
+,,,,Las Chacras
+,,,,Las Lagunas
+,,,,Paso Grande
+,,,,Potrerillo
+,,,,San Martín
+,,,,Villa de Praga
+,,,,OTROS
+,,,,Comandante Luis Piedrabuena
+,,,,Puerto Santa Cruz
+,,,,Caleta Olivia
+,,,,Cañadón Seco
+,,,,Jaramillo
+,,,,Las Heras
+,,,,Pico Truncado
+,,,,Puerto Deseado
+,,,,Tellier
+,,,,28 de Noviembre
+,,,,El Turbio (Est. Gobernador Mayer)
+,,,,Mina 3
+,,,,Río Gallegos
+,,,,Yacimientos Río Turbio
+,,,,El Calafate
+,,,,El Chaltén
+,,,,Tres Lagos
+,,,,Los Antiguos
+,,,,Perito Moreno
+,,,,Puerto San Julián
+,,,,OTROS
+,,,,Bajo Caracoles
+,,,,Gobernador Gregores
+,,,,Esteban Rams
+,,,,Gato Colorado
+,,,,Gregoria Pérez de Denis (Est. El Nochero)
+,,,,Logroño
+,,,,Montefiore
+,,,,Pozo Borrado
+,,,,San Bernardo
+,,,,Santa Margarita
+,,,,Tostado
+,,,,Villa Minetti
+,,,,Armstrong
+,,,,Bouquet
+,,,,Las Parejas
+,,,,Las Rosas
+,,,,Montes de Oca
+,,,,Tortugas
+,,,,Arequito
+,,,,Arteaga
+,,,,Beravebú
+,,,,Bigand
+,,,,Casilda
+,,,,Chabás
+,,,,Chañar Ladeado
+,,,,Gödeken
+,,,,Los Molinos
+,,,,Los Nogales
+,,,,Los Quirquinchos
+,,,,San José de la Esquina
+,,,,Sanford
+,,,,Villada
+,,,,Aldao (Est. Casablanca)
+,,,,Angélica
+,,,,Ataliva
+,,,,Aurelia
+,,,,Bauer y Sigel
+,,,,Bella Italia
+,,,,Castellanos
+,,,,Colonia Bicha
+,,,,Colonia Cello
+,,,,Colonia Margarita
+,,,,Colonia Raquel
+,,,,Coronel Fraga
+,,,,Esmeralda
+,,,,Estación Clucellas
+,,,,Estación Saguier
+,,,,Eusebia y Carolina
+,,,,Eustolia
+,,,,Frontera
+,,,,Humberto Primo
+,,,,Josefina
+,,,,Lehmann
+,,,,María Juana
+,,,,Plaza Clucellas
+,,,,Plaza Saguier
+,,,,Presidente Roca
+,,,,Pueblo Marini
+,,,,Rafaela
+,,,,Ramona
+,,,,San Antonio
+,,,,San Vicente
+,,,,Santa Clara de Saguier
+,,,,Sunchales
+,,,,Susana
+,,,,Tacural
+,,,,Vila
+,,,,Villa San José
+,,,,Virginia
+,,,,Zenón Pereyra
+,,,,Alcorta
+,,,,Bombal
+,,,,Cepeda
+,,,,Empalme Villa Constitución
+,,,,General Gelly
+,,,,Godoy
+,,,,Juan B. Molina
+,,,,Juncal
+,,,,La Vanguardia
+,,,,Máximo Paz (Est. Paz)
+,,,,Pavón
+,,,,Pavón Arriba
+,,,,Peyrano
+,,,,Rueda
+,,,,Santa Teresa
+,,,,Sargento Cabral
+,,,,Villa Constitución
+,,,,Cayastá
+,,,,Helvecia
+,,,,Los Zapallos
+,,,,Saladero Mariano Cabal
+,,,,Santa Rosa de Calchines
+,,,,Aarón Castellanos (Est. Castellanos)
+,,,,Amenábar
+,,,,Cafferata
+,,,,Cañada del Ucle
+,,,,Carmen
+,,,,Carreras
+,,,,Chapuy
+,,,,Chovet
+,,,,Christophersen
+,,,,Diego de Alvear
+,,,,Elortondo
+,,,,Firmat
+,,,,Hughes
+,,,,La Chispa
+,,,,Labordeboy
+,,,,Maggiolo
+,,,,María Teresa
+,,,,Melincué (Est. San Urbano)
+,,,,Miguel Torres
+,,,,Murphy
+,,,,Rufino
+,,,,San Eduardo
+,,,,San Francisco de Santa Fe
+,,,,San Gregorio
+,,,,Sancti Spiritu
+,,,,Santa Isabel
+,,,,Teodelina
+,,,,Venado Tuerto
+,,,,Villa Cañás
+,,,,Wheelwright
+,,,,Arroyo Ceibal
+,,,,Avellaneda (Est. Ewald)
+,,,,Berna
+,,,,El Araza
+,,,,El Rabón
+,,,,Florencia
+,,,,Guadalupe Norte
+,,,,Ingeniero Chanourdie
+,,,,La Isleta
+,,,,La Sarita
+,,,,Lanteri
+,,,,Las Garzas
+,,,,Las Toscas
+,,,,Los Laureles
+,,,,Malabrigo
+,,,,Paraje San Manuel
+,,,,Reconquista
+,,,,San Antonio de Obligado
+,,,,Tacuarendí (Emb. Kilómetro 421)
+,,,,Villa Ana
+,,,,Villa Guillermina
+,,,,Villa Ocampo
+,,,,Barrio Cicarelli
+,,,,Bustinza
+,,,,Cañada de Gómez
+,,,,Carrizales (Est. Clarke)
+,,,,Classon
+,,,,Colonia Médici
+,,,,Correa
+,,,,Larguía
+,,,,Lucio V. López
+,,,,Oliveros
+,,,,Pueblo Andino
+,,,,Salto Grande
+,,,,Serodino
+,,,,Totoras
+,,,,Villa Eloísa
+,,,,Villa La Rivera (Oliveros)
+,,,,Villa La Rivera (Pueblo Andino)
+,,,,Angel Gallardo
+,,,,Arroyo Aguiar
+,,,,Arroyo Leyes
+,,,,Cabal
+,,,,Candioti
+,,,,Emilia
+,,,,Laguna Paiva
+,,,,Llambi Campbell
+,,,,Monte Vera
+,,,,Nelson
+,,,,Recreo
+,,,,San José del Rincón
+,,,,Santa Fe
+,,,,Santo Tomé
+,,,,Sauce Viejo
+,,,,Cavour
+,,,,Cululú
+,,,,Elisa
+,,,,Empalme San Carlos
+,,,,Esperanza
+,,,,Felicia
+,,,,Franck
+,,,,Grutly
+,,,,Hipatia
+,,,,Humboldt
+,,,,La Pelada
+,,,,Las Tunas
+,,,,María Luisa
+,,,,Matilde
+,,,,Nuevo Torino
+,,,,OTROS
+,,,,Pilar
+,,,,Progreso
+,,,,Providencia
+,,,,Sa Pereyra
+,,,,San Agustín
+,,,,San Carlos Centro
+,,,,San Carlos Norte
+,,,,San Carlos Sud
+,,,,San Jerónimo del Sauce
+,,,,San Jerónimo Norte
+,,,,Santa Clara de Buena Vista
+,,,,Santo Domingo
+,,,,Sarmiento
+,,,,OTROS
+,,,,Acebal
+,,,,Albarellos
+,,,,Álvarez
+,,,,Alvear
+,,,,Arbilla
+,,,,Arminda
+,,,,Arroyo Seco
+,,,,Carmen del Sauce
+,,,,Coronel Bogado
+,,,,Coronel Rodolfo S. Domínguez
+,,,,Cuatro Esquinas
+,,,,El Caramelo
+,,,,Fighiera
+,,,,Funes
+,,,,General Lagos
+,,,,Granadero Baigorria
+,,,,Ibarlucea
+,,,,Kilómetro 101
+,,,,Monte Flores
+,,,,Pérez
+,,,,Piñero (Est. Erasto)
+,,,,Pueblo Esther
+,,,,Pueblo Muñoz (Est. Bernard)
+,,,,Pueblo Uranga
+,,,,Puerto Arroyo Seco
+,,,,Rosario
+,,,,Soldini
+,,,,Villa Amelia
+,,,,Villa del Plata
+,,,,Villa Gobernador Gálvez
+,,,,Zavalla
+,,,,Aguará Grande
+,,,,Ambrosetti
+,,,,Arrufo
+,,,,Balneario La Verde
+,,,,Capivara
+,,,,Ceres
+,,,,Colonia Ana
+,,,,Colonia Bossi
+,,,,Colonia Rosa
+,,,,Curupaity
+,,,,Hersilia
+,,,,Huanqueros
+,,,,La Cabral
+,,,,La Rubia
+,,,,Las Palmeras
+,,,,Moisés Ville
+,,,,Monigotes
+,,,,Ñanducita
+,,,,OTROS
+,,,,Palacios
+,,,,San Cristóbal
+,,,,San Guillermo
+,,,,Santurce
+,,,,Soledad
+,,,,Suardi
+,,,,Villa Saralegui
+,,,,Alejandra
+,,,,Cacique Ariacaiquín
+,,,,Colonia Durán
+,,,,La Brava
+,,,,Romang
+,,,,San Javier
+,,,,Arocena
+,,,,Barrancas
+,,,,Barrio Caima
+,,,,Bernardo de Irigoyen (Est. Irigoyen)
+,,,,Centeno
+,,,,Coronda
+,,,,Desvío Arijón
+,,,,Díaz
+,,,,Gaboto
+,,,,Gálvez
+,,,,Gessler
+,,,,Irigoyen
+,,,,Larrechea
+,,,,Loma Alta
+,,,,López (Est. San Martín de Tours)
+,,,,Maciel
+,,,,Monje
+,,,,San Eugenio
+,,,,San Fabián
+,,,,San Genaro
+,,,,San Genaro Norte
+,,,,Angeloni
+,,,,Cayastacito
+,,,,Colonia Dolores
+,,,,Esther
+,,,,Gobernador Crespo
+,,,,La Criolla (Est. Cañadita)
+,,,,La Penca y Caraguatá
+,,,,Marcelino Escalada
+,,,,Naré
+,,,,OTROS
+,,,,Pedro Gómez Cello
+,,,,Ramayón
+,,,,San Bernardo
+,,,,San Justo
+,,,,San Martín Norte
+,,,,Silva (Est. Abipones)
+,,,,Vera y Pintado (Est. Guaraníes)
+,,,,Videla
+,,,,Aldao
+,,,,Capitán Bermúdez
+,,,,Carcarañá
+,,,,Coronel Arnold
+,,,,Fray Luis Beltrán
+,,,,Fuentes
+,,,,Luis Palacios (Est. La Salada)
+,,,,Puerto General San Martín
+,,,,Pujato
+,,,,Ricardone
+,,,,Roldán
+,,,,San Jerónimo Sud
+,,,,San Lorenzo
+,,,,Timbúes
+,,,,Villa Elvira
+,,,,Villa Mugueta
+,,,,Carlos Pellegrini
+,,,,Casas
+,,,,Castelar
+,,,,Colonia Belgrano
+,,,,El Trébol
+,,,,Landeta
+,,,,Las Bandurrias
+,,,,Las Petacas
+,,,,Los Cardos
+,,,,María Susana
+,,,,Piamonte
+,,,,San Jorge
+,,,,San Martín de las Escobas
+,,,,Sastre
+,,,,Calchaquí
+,,,,Cañada Ombú
+,,,,Colmena
+,,,,Fortín Olmos
+,,,,Garabato
+,,,,Golondrina
+,,,,Intiyaco
+,,,,Kilómetro 115
+,,,,La Gallareta
+,,,,Los Amores
+,,,,Margarita
+,,,,Paraje 29
+,,,,Pozo de los Indios
+,,,,Pueblo Santa Lucía
+,,,,Tartagal (Est. El Tajamar)
+,,,,Toba
+,,,,Vera (Est. Gobernador Vera)
+,,,,Malbrán
+,,,,Villa General Mitre (Est. Pinto)
+,,,,Campo Gallo
+,,,,Coronel Manuel L. Rico
+,,,,Donadeu
+,,,,Sachayoj
+,,,,Santos Lugares
+,,,,Estación Atamisqui
+,,,,Medellín
+,,,,Villa Atamisqui
+,,,,Colonia Dora
+,,,,Herrera
+,,,,Icaño
+,,,,Lugones
+,,,,Real Sayana
+,,,,Villa Mailín
+,,,,Abra Grande
+,,,,Chaupi Pozo
+,,,,Clodomira
+,,,,La Banda
+,,,,Los Quiroga
+,,,,Simbolar
+,,,,Bandera
+,,,,Cuatro Bocas
+,,,,Fortín Inca
+,,,,Guardia Escolta
+,,,,El Mojón
+,,,,El Zanjón
+,,,,Los Cardozos
+,,,,Maco
+,,,,Maquito
+,,,,Morales
+,,,,Puesto de San Antonio
+,,,,San Pedro
+,,,,Santa María
+,,,,Santiago del Estero
+,,,,Vuelta de la Barranca
+,,,,Yanda
+,,,,Choya
+,,,,Estación La Punta
+,,,,Frías
+,,,,Laprida
+,,,,Tapso
+,,,,Villa La Punta
+,,,,El Caburé
+,,,,La Firmeza
+,,,,Los Pirpintos
+,,,,Los Tigres
+,,,,Monte Quemado
+,,,,Nueva Esperanza
+,,,,Pampa de los Guanacos
+,,,,San José del Boquerón
+,,,,Urutaú
+,,,,Bandera Bajada
+,,,,Caspi Corral
+,,,,La Cañada
+,,,,La Invernada
+,,,,Vaca Huañuna
+,,,,Villa Figueroa
+,,,,Añatuya
+,,,,Averías
+,,,,Estación Tacañitas
+,,,,Los Juríes
+,,,,Tomás Young
+,,,,Lavalle
+,,,,San Pedro
+,,,,El Arenal
+,,,,El Bobadal
+,,,,El Charco
+,,,,Gramilla
+,,,,Isca Yacu
+,,,,Pozo Hondo
+,,,,El Colorado
+,,,,El Cuadrado
+,,,,Matará
+,,,,Suncho Corral
+,,,,Vilelas
+,,,,Villa San Martín (Est. Loreto)
+,,,,Villa Unión
+,,,,Aerolito
+,,,,Alhuampa
+,,,,Hasse
+,,,,Hernán Mejía Miraval
+,,,,Las Tinajas
+,,,,Patay
+,,,,Pueblo Pablo Torelo (Est. Otumpa)
+,,,,Quimilí
+,,,,Roversi
+,,,,Tintina
+,,,,Weisburd
+,,,,OTROS
+,,,,Sol de Julio
+,,,,Villa Ojo de Agua
+,,,,OTROS
+,,,,El Mojón
+,,,,Las Delicias
+,,,,Nueva Esperanza
+,,,,Rapelli
+,,,,Santo Domingo
+,,,,Ramírez de Velazco
+,,,,Sumampa
+,,,,Sumampa Viejo
+,,,,Chañar Pozo de Abajo
+,,,,Chauchillas
+,,,,Colonia Tinco
+,,,,El Charco
+,,,,Gramilla
+,,,,Los Núñez
+,,,,Mansupa
+,,,,Pozuelos
+,,,,Termas de Río Hondo
+,,,,Villa Río Hondo
+,,,,Colonia Alpina
+,,,,Selva
+,,,,Beltrán
+,,,,Colonia El Simbolar
+,,,,Fernández
+,,,,Ingeniero Forres (Est. Chaguar Punco)
+,,,,Vilmer
+,,,,Chilca Juliana
+,,,,Los Telares
+,,,,Villa Salavina
+,,,,Brea Pozo
+,,,,Estación Robles
+,,,,Estación Taboada
+,,,,Garza
+,,,,Árraga
+,,,,Nueva Francia
+,,,,Simbol
+,,,,Base Belgrano Ii
+,,,,Base Orcadas
+,,,,Base San Martin
+,,,,OTROS
+,,,,Río Grande
+,,,,Tolhuin
+,,,,Laguna Escondida
+,,,,Ushuaia
+,,,,7 de Abril
+,,,,Garmendia
+,,,,OTROS
+,,,,Piedrabuena
+,,,,Villa Burruyacú
+,,,,San Miguel de Tucumán (Est. Tucumán)
+,,,,Arcadia
+,,,,Concepción
+,,,,La Trinidad
+,,,,Alderetes
+,,,,Banda del Río Salí
+,,,,Delfín Gallo
+,,,,El Bracho
+,,,,La Florida
+,,,,Las Cejas
+,,,,Los Ralos
+,,,,Pacará
+,,,,Ranchillos
+,,,,San Andrés
+,,,,Famaillá
+,,,,Graneros
+,,,,Lamadrid
+,,,,Taco Ralo
+,,,,Juan Bautista Alberdi
+,,,,La Cocha
+,,,,San José de La Cocha
+,,,,Bella Vista
+,,,,Manuel García Fernández
+,,,,Pala Pala
+,,,,Río Colorado
+,,,,Santa Rosa de Leales
+,,,,Villa de Leales
+,,,,Villa Fiad - Ingenio Leales
+,,,,El Manantial
+,,,,Ingenio San Pablo
+,,,,La Reducción
+,,,,Lules
+,,,,Acheral
+,,,,Capitán Cáceres
+,,,,Monteros
+,,,,Pueblo Independencia
+,,,,Río Seco
+,,,,Santa Lucía
+,,,,Sargento Moya
+,,,,Teniente Berdina
+,,,,Villa Quinteros
+,,,,OTROS
+,,,,Aguilares
+,,,,Los Sarmientos
+,,,,Santa Ana
+,,,,Atahona
+,,,,Monteagudo
+,,,,Nueva Trinidad
+,,,,Simoca
+,,,,Villa Chicligasta
+,,,,Amaicha del Valle
+,,,,Colalao del Valle
+,,,,El Mollar
+,,,,Tafí del Valle
+,,,,Barrio Lomas de Tafí
+,,,,Barrio Mutual San Martín
+,,,,Diagonal Norte - Luz y Fuerza - Los Pocitos - Villa Nueva Italia (6)
+,,,,Tafí Viejo
+,,,,Villa Mariano Moreno - El Colmenar
+,,,,San Pedro de Colalao
+,,,,Villa  de Trancas
+,,,,Villa Carmela
+,,,,Yerba Buena - Marcos Paz
