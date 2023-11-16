@@ -4,7 +4,7 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import numpy as np
 
-df3 = pd.read_csv('../datos_EDA/internet_accestecnologia_EDA.csv') # Leyendo mi tercer Datafram
+df3 = pd.read_csv('./datos_EDA/internet_accestecnologia_EDA.csv') # Leyendo mi tercer Datafram
 
 # Streamlit
 st.markdown("<h1 style='text-align: center;'>Tecnologías por Provincia</h1>", unsafe_allow_html=True)
