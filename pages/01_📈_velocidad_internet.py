@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pylab as plt
 import seaborn as sns 
 
-df1= pd.read_csv('..\datos_EDA\historico_veloci_internetmediabaja_EDA.csv')
+df1= pd.read_csv('../datos_EDA/historico_veloci_internetmediabaja_EDA.csv')
 
 # Encabezado de la aplicación
 st.markdown("<h1 style='text-align: center;'>Velocidad de Internet en Provincias</h1>", unsafe_allow_html=True)
