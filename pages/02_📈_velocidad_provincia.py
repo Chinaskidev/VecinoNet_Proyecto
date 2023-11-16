@@ -6,7 +6,7 @@ import seaborn as sns
 
 
 # Supongamos que df2 es tu DataFrame
-df2 = pd.read_csv('.\datos_EDA\internetfijo_velocidadbaja_provincia_EDA.csv')
+df2 = pd.read_csv('..\datos_EDA\internetfijo_velocidadbaja_provincia_EDA.csv')
 
 # Crear una interfaz Streamlit
 st.markdown("<h1 style='text-align: center;'>Velocidades por Provincia</h1>", unsafe_allow_html=True)
