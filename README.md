@@ -98,4 +98,4 @@ Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendim
 
 Este KPI tiene como finalidad medir y evaluar el impacto de las iniciativas que se implementarán para mejorar la conectividad en los hogares seleccionados. La meta establecida refleja el compromiso de lograr un incremento sustancial en la adopción de servicios de internet, contribuyendo así al avance y accesibilidad de la conectividad en la comunidad seleccionada.<br>
 
-![KPI 1](https://github.com/Chinaskidev/VecinoNet_Proyecto/blob/master/images/kpi%201.mp4)
+![KPI 1](./images/KPI1.gif)
