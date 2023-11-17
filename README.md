@@ -90,6 +90,9 @@ La diversidad en las preferencias tecnológicas, incluyendo opciones como "Cable
 
 ## KPI´s
 
+**He utilizado el framework Streamlit para la creación de los KPI con el objetivo de facilitar la visualización de gráficos. Para acceder a los resultados y análisis gráficos, le invito a hacer clic en el siguiente enlace:** [DASHBOARD](https://vecinonet.streamlit.app/)<br>
+
+
 Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendimiento (KPI)** con el objetivo de incrementar en un **2%** el acceso al servicio de internet durante el próximo trimestre, considerando una muestra representativa de 100 hogares. En este contexto:    [Enlace de Desarrollo KPI](https://github.com/Chinaskidev/VecinoNet_Proyecto/blob/master/tele_ENACOM_EDA.ipynb)
 
 - "Nuevo acceso" se define como la cantidad de hogares que contarán con acceso a Internet al término del próximo trimestre.<br>
