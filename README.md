@@ -98,7 +98,7 @@ Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendim
 
 Este KPI tiene como finalidad medir y evaluar el impacto de las iniciativas que se implementarán para mejorar la conectividad en los hogares seleccionados. La meta establecida refleja el compromiso de lograr un incremento sustancial en la adopción de servicios de internet, contribuyendo así al avance y accesibilidad de la conectividad en la comunidad seleccionada.<br>
 
-![KPI 1](./images/kpi_aumento1_trimestre.png)
+![KPI 1](./images/KPI1.gif)
 <br>
 
 En la búsqueda continua de mejorar la conectividad a nivel provincial, hemos desarrollado un nuevo indicador clave de rendimiento (KPI) denominado 'KPI de Aumento de velocidad al 2% a Internet por Provincia'. Este indicador se centra en medir el incremento porcentual del acceso a Internet mediante un cálculo KPI específico para cada provincia.<br>
