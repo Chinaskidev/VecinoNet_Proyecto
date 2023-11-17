@@ -1,8 +1,9 @@
+# Lectura de mis amigas las librerias
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-# Cargar los datos (asegúrate de tener tu DataFrame df4 cargado)
+# Cargar los datos.
 df4 = pd.read_csv('./datos_EDA/internet_ingresos_EDA.csv')
 
 # Gráfico de Área interactivo con Plotly Express

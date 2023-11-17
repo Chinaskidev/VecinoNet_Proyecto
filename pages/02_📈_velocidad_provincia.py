@@ -1,23 +1,22 @@
+# Cargo las librerias que utilizare para este gráfico.
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns 
 
-
-
-# Supongamos que df2 es tu DataFrame
+# Cargo mi Dataframe 
 df2 = pd.read_csv('./datos_EDA/internetfijo_velocidadbaja_provincia_EDA.csv')
 
-# Crear una interfaz Streamlit
+# Agrego un encabezado con 'markdown' y usando HTML
 st.markdown("<h1 style='text-align: center;'>Velocidades por Provincia</h1>", unsafe_allow_html=True)
 
-# Seleccionar la velocidad a visualizar
+# En esta parte selecciono la velocidad a visualizar en el gráfico.
 velocidad_seleccionada = st.selectbox('Selecciona la velocidad:', ['0,5 Mbps', '3 Mbps', '10 Mbps'])
 
-# Filtrar datos según la velocidad seleccionada
+# Se filtran datos según la velocidad seleccionada
 df_filtrado = df2[['Provincia', velocidad_seleccionada]]
 
-# Asignar colores según la velocidad
+# Asigno colores según la velocidad
 colores = {
     '0,5 Mbps': '#03045e',
     '3 Mbps': '#0077b6',
@@ -28,7 +27,7 @@ colores = {
 fig, ax = plt.subplots(figsize=(12, 8))
 ax.bar(df_filtrado['Provincia'], df_filtrado[velocidad_seleccionada], color=colores[velocidad_seleccionada], edgecolor='black', linewidth=1.2)
 
-# Personalizar el gráfico
+# Grafico y personalizo
 ax.set_title(f'Gráfico de Barras de {velocidad_seleccionada} por Provincia')
 ax.set_xlabel('Provincia')
 ax.set_ylabel('Velocidad')
