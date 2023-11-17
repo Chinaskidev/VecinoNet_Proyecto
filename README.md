@@ -90,7 +90,7 @@ La diversidad en las preferencias tecnológicas, incluyendo opciones como "Cable
 
 ## KPI´s
 
-Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendimiento (KPI)** con el objetivo de incrementar en un **2%** el acceso al servicio de internet durante el próximo trimestre, considerando una muestra representativa de 100 hogares. En este contexto:
+Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendimiento (KPI)** con el objetivo de incrementar en un **2%** el acceso al servicio de internet durante el próximo trimestre, considerando una muestra representativa de 100 hogares. En este contexto:    [Enlace de Desarrollo KPI](https://github.com/Chinaskidev/VecinoNet_Proyecto/blob/master/tele_ENACOM_EDA.ipynb)
 
 - "Nuevo acceso" se define como la cantidad de hogares que contarán con acceso a Internet al término del próximo trimestre.<br>
 
@@ -98,4 +98,12 @@ Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendim
 
 Este KPI tiene como finalidad medir y evaluar el impacto de las iniciativas que se implementarán para mejorar la conectividad en los hogares seleccionados. La meta establecida refleja el compromiso de lograr un incremento sustancial en la adopción de servicios de internet, contribuyendo así al avance y accesibilidad de la conectividad en la comunidad seleccionada.<br>
 
-![KPI 1](./images/KPI1.gif)
+![KPI 1](./images/kpi_aumento1_trimestre.png)
+<br>
+
+En la búsqueda continua de mejorar la conectividad a nivel provincial, hemos desarrollado un nuevo indicador clave de rendimiento (KPI) denominado 'KPI de Aumento de velocidad al 2% a Internet por Provincia'. Este indicador se centra en medir el incremento porcentual del acceso a Internet mediante un cálculo KPI específico para cada provincia.<br>
+
+El propósito esencial de este KPI es evaluar y cuantificar el progreso en la mejora de la velocidad de conexión a Internet en cada provincia. La integración de este KPI en nuestro análisis permitirá una evaluación más completa y detallada de los esfuerzos destinados a optimizar la conectividad, contribuyendo así a la formulación de estrategias efectivas para el avance tecnológico.    [Enlace de Desarrollo KPI](https://github.com/Chinaskidev/VecinoNet_Proyecto/blob/master/tele_ENACOM_EDA.ipynb)
+
+![KPI 2](./images/kpi_aumento2_provincia.png)
+
