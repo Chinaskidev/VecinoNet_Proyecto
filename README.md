@@ -2,6 +2,9 @@
 <center><h4>Este repositorio alberga el Proyecto Individual 2 de Data Analyst realizado durante el bootcamp de Henry.</h4></center>
 
 <center>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=white&labelColor=151414&color=238623'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Pandas' src='https://img.shields.io/badge/Pandas-100000?style=flat&logo=Pandas&logoColor=white&labelColor=151414&color=258688'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Numpy' src='https://img.shields.io/badge/Numpy-100000?style=flat&logo=Numpy&logoColor=white&labelColor=151414&color=18DEE5'/> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Matplotlib' src='https://img.shields.io/badge/Matplotlib-100000?style=flat&logo=Matplotlib&logoColor=FEFBFA&labelColor=151414&color=7C8080'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Seaborn' src='https://img.shields.io/badge/Seaborn-100000?style=flat&logo=Seaborn&logoColor=FEFBFA&labelColor=151414&color=E76D09'/></a>  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Streamlit' src='https://img.shields.io/badge/Streamlit-100000?style=flat&logo=Streamlit&logoColor=FEFBFA&labelColor=151414&color=FF3409'/></a>  <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=flat&logo=Github&logoColor=FEFBFA&labelColor=151414&color=EEEDEA'/></a> 
+</center>
+<center>
 
 <img src="./images/vecinonet.png" alt="VecinoNet_ENACOM" width="800" height="500"/>
 
@@ -90,7 +93,7 @@ La diversidad en las preferencias tecnológicas, incluyendo opciones como "Cable
 
 ## KPI´s
 
-**He utilizado el framework Streamlit para la creación de los KPI con el objetivo de facilitar la visualización de gráficos. Para acceder a los resultados y análisis gráficos, le invito a hacer clic en el siguiente enlace:** [DASHBOARD](https://vecinonet.streamlit.app/)<br>
+**He utilizado el framework [Streamlit](https://streamlit.io/) para la creación de los KPI con el objetivo de facilitar la visualización de gráficos. Para acceder a los resultados y análisis gráficos, le invito a hacer clic en el siguiente enlace:** [DASHBOARD](https://vecinonet.streamlit.app/)<br>
 
 
 Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendimiento (KPI)** con el objetivo de incrementar en un **2%** el acceso al servicio de internet durante el próximo trimestre, considerando una muestra representativa de 100 hogares. En este contexto:    [Enlace de Desarrollo KPI](https://github.com/Chinaskidev/VecinoNet_Proyecto/blob/master/tele_ENACOM_EDA.ipynb)
@@ -110,3 +113,9 @@ El propósito esencial de este KPI es evaluar y cuantificar el progreso en la me
 
 ![KPI 2](./images/KPI2.gif)
 
+
+## Conclusion <br>
+
+Internet emerge como un poderoso instrumento catalizador, extendiendo sus ramificaciones más allá de la conectividad pura y simple. Se convierte en un vehículo esencial para incrementar la transparencia y garantizar el acceso a información crítica. Esta accesibilidad no solo empodera a individuos, sino que también actúa como un cimiento fundamental para la participación ciudadana. Al posibilitar un acceso más equitativo a datos e ideas, Internet se erige como una herramienta transformadora que facilita la colaboración y la toma de decisiones informada en el ámbito social, cultural, económico y político.
+
+Las redes libres y comunitarias se presentan como arquitecturas fundamentales en esta ecuación. No solo proporcionan acceso a la conectividad, sino que fomentan y fortalecen los procesos asociativos y cooperativos. Estas redes se convierten en agentes clave para empoderar a las comunidades, brindándoles la capacidad de moldear y participar activamente en la creación de un futuro mejor, un "otro mundo posible". En este contexto, la percepción de Internet como un bien común se vuelve vital y necesario. Esta visión va más allá de la mera conectividad; es un reconocimiento de que el acceso a la información y la capacidad de participación ciudadana son derechos fundamentales que deben ser cultivados y protegidos para el beneficio colectivo y el progreso sostenible.
