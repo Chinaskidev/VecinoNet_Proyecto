@@ -87,3 +87,15 @@ En el siguiente gráfico de barras apiladas presenta la distribución de las tec
  La prominencia de la tecnología de Fibra Óptica, con su alta velocidad y confiabilidad, destaca la presencia de avances tecnológicos en algunas provincias. Sin embargo, este panorama también sugiere una posible brecha en el acceso tecnológico, ya que otras provincias podrían depender de tecnologías menos avanzadas.<br>
 
 La diversidad en las preferencias tecnológicas, incluyendo opciones como "Cablemodem" y otras tecnologías, señala la adaptabilidad a diversas necesidades de los usuarios. Sin embargo, es crucial reconocer que algunas tecnologías más avanzadas podrían estar fuera del alcance de personas de bajos recursos, lo que subraya desafíos en la inclusión digital.
+
+## KPI´s
+
+Se nos ha encomendado la tarea de **desarrollar** un **indicador clave de rendimiento (KPI)** con el objetivo de incrementar en un **2%** el acceso al servicio de internet durante el próximo trimestre, considerando una muestra representativa de 100 hogares. En este contexto:
+
+- "Nuevo acceso" se define como la cantidad de hogares que contarán con acceso a Internet al término del próximo trimestre.<br>
+
+- "Acceso actual" representa el número de hogares que actualmente disponen de acceso a Internet en el trimestre en curso.<br>
+
+Este KPI tiene como finalidad medir y evaluar el impacto de las iniciativas que se implementarán para mejorar la conectividad en los hogares seleccionados. La meta establecida refleja el compromiso de lograr un incremento sustancial en la adopción de servicios de internet, contribuyendo así al avance y accesibilidad de la conectividad en la comunidad seleccionada.<br>
+
+![KPI 1](https://github.com/Chinaskidev/VecinoNet_Proyecto/blob/master/images/kpi%201.mp4)
