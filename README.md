@@ -13,7 +13,7 @@
 ## Introduccíon
 En Argentina, garantizar el acceso a internet y considerarlo un derecho es una política pública en desarrollo. El Estado y diferentes actores, como empresas, pymes, cooperativas y organizaciones de la sociedad civil, trabajan en conjunto para garantizar la disponibilidad de la tecnología y desarrollar marcos legales y regulatorios necesarios.
 
-Las Redes Comunitarias están jugando un papel importante en esta política y se están articulando estratégicamente para ser reconocidas en el ecosistema del internet.
+Las Redes Comunitarias están jugando un papel importante en esta política y se están articulando estratégicamente para ser reconocidas en el ecosistema del internet. [Ver](https://altermundi.net/)
 
 ## Descripción del Proyecto
 
