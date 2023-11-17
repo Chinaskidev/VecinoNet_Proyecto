@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title='VecinoNet(Redes para Todos)', page_icon = ':bar_chart:', layout = 'centered')
 
-# Título centradonusando HTML
+# Título centradon usando 
 st.markdown("<h1 style='text-align: center'>VecinoNet(Redes para Todos)</h1><hr style='height:2px;border-width:0;color:gray;background-color:gray'>", unsafe_allow_html=True)
 
 # Contenido centrado
