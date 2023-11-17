@@ -105,5 +105,5 @@ En la búsqueda continua de mejorar la conectividad a nivel provincial, hemos de
 
 El propósito esencial de este KPI es evaluar y cuantificar el progreso en la mejora de la velocidad de conexión a Internet en cada provincia. La integración de este KPI en nuestro análisis permitirá una evaluación más completa y detallada de los esfuerzos destinados a optimizar la conectividad, contribuyendo así a la formulación de estrategias efectivas para el avance tecnológico.    [Enlace de Desarrollo KPI](https://github.com/Chinaskidev/VecinoNet_Proyecto/blob/master/tele_ENACOM_EDA.ipynb)
 
-![KPI 2](./images/kpi_aumento2_provincia.png)
+![KPI 2](./images/kpi2.mp4)
 
