@@ -8,10 +8,11 @@ import seaborn as sns
 df2 = pd.read_csv('./datos_EDA/internetfijo_velocidadbaja_provincia_EDA.csv')
 
 # Agrego un encabezado con 'markdown' y usando HTML
-st.markdown("<h1 style='text-align: center;'>Velocidades por Provincia</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #b6bbb5'>Velocidad de Internet por Provincia</h1>", unsafe_allow_html=True)
 
 # En esta parte selecciono la velocidad a visualizar en el gráfico.
 velocidad_seleccionada = st.selectbox('Selecciona la velocidad:', ['0,5 Mbps', '3 Mbps', '10 Mbps'])
+
 
 # Se filtran datos según la velocidad seleccionada
 df_filtrado = df2[['Provincia', velocidad_seleccionada]]
@@ -38,3 +39,12 @@ plt.xticks(rotation=45, ha='right')
 
 # Mostrar el gráfico en Streamlit
 st.pyplot(fig)
+
+# Descripción del Gráfico y boton interactivo
+if st.button('Más información'):
+    
+    st.write(
+    "Este gráfico de barras muestra la distribución de velocidades de Internet fijo en diferentes provincias. "
+    "Selecciona la velocidad deseada en el menú desplegable para visualizar cómo varía esa velocidad en cada provincia. "
+    "Cada barra representa una provincia y su altura indica la velocidad promedio de Internet fijo para la categoría seleccionada."
+)
