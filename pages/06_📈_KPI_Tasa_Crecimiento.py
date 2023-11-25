@@ -35,9 +35,6 @@ df5 = df5[df5['Provincia'] == provincia]
 # Tarjeta de métricas para el KPI
 st.metric(label="KPI", value=kpi)
 
-# Tarjeta de métricas para el nuevo acceso
-st.metric(label="Nuevo Acceso", value=df5['NUEVOACCESO'].sum())
-
 # Tarjeta de métricas para la tasa de crecimiento
 st.metric(label="Tasa de Crecimiento", value=df5['TASA_CRECIMIENTO'].mean())
 

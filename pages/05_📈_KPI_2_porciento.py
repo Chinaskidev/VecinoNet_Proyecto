@@ -32,9 +32,6 @@ df5 = df5[df5['Provincia'] == provincia]
 # Tarjeta de métricas para el KPI
 st.metric(label="KPI", value=kpi)
 
-# Tarjeta de métricas para el nuevo acceso
-st.metric(label="Nuevo Acceso", value=df5['NUEVOACCESO'].sum())
-
 # Ordena los datos por 'Trimestre' de forma ascendente
 df5 = df5.sort_values(by=['Año', 'Trimestre'], ascending=[False, False])
 
